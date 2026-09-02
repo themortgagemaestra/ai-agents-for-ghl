@@ -6,6 +6,17 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ---
 
+## Log
+
+### 2026-09-02 (cont'd, part 5) — Bridgette's interview: cut Amber's filler, kept the real structure, shared log created
+- Jess rewatched a recording of Amber McCue's AI Clone Team training and sent screenshots of Amber's own real morning-brief agent (which Amber calls her chief of staff) as reference. It included real value (email/GHL inbox triage sorted Action/FYI/Skip, follow-ups sorted Chase/Connect/Delegate, a calendar snapshot, a dated market/news roundup, a single "One Big Thing Today") mixed with what Jess called "slop" — a Human Design/Enneagram/astrocartography "energy" card, a "weekly ratio check" paragraph she read aloud and correctly identified as "sounds like a bunch of nothing," hedge-heavy competitor watching, and a bolted-on Friday reflection prompt.
+- Went through it component by component and sorted keep vs. cut against Jess's explicit standard: plain, direct, eighth-grade-simple language, no filler. Kept: One Big Thing (now refined further, see below), the market/product update, a lightweight content spark (not a full draft — that's Callie's/Nia's job), and the general "sort things into a few honest categories" pattern. Cut: the energy card, the ratio-check paragraph, hedge-heavy competitor watch, the Friday reflection bolt-on. Flagged the email/GHL triage as genuinely valuable but dependent on an integration this project hasn't built yet — confirmed as a later phase, not v1.
+- Jess refined the "big rocks" idea after seeing Amber's "One Big Thing": now **One Big Thing today** (single headline priority) plus an **on-deck/runner-up shortlist** for after it's done, replacing the flat 5–6 item list.
+- Jess confirmed she writes her 6 morning gratitudes in a **physical journal** — Bridgette should prompt/remind, not capture that text digitally.
+- Confirmed the shared-log approach from the last session: created `agents/daily-brief-log.md`, one running file (newest entry at top, same pattern as this ledger) that Bridgette reads each morning and Grecia writes each evening — the actual handoff mechanism between them, no integration needed.
+- Updated `agents/bridgette-morning-brief.md`, `agents/grecia-evening-wrapup.md`, and `TEAM-ROSTER.md`'s role-detail section to match all of the above.
+- **Not done yet / open question:** whether Grecia's evening "6 wins" ritual is also physical-journal-only like gratitude, or should be captured/drafted into the shared log — asked, not yet answered. Affects what the evening half of the log actually holds. Also still open: Bridgette's exact trigger mechanism (assumed: asked for in chat, not scheduled) — stated as an assumption in her file, not yet confirmed.
+
 ### 2026-09-02 (cont'd, part 4) — Carrie restored, Grace renamed to Grecia, Bridgette's interview starts
 - Resolved the two open questions from the last update. **Carrie** is confirmed still on the team — Jess remembered her from an earlier planning doc and wants her back — slotted in as **#9** (content-to-conversion, scope unchanged). **"Grace"** (the evening/wrap-up-brief role, #9 in the prior draft) is renamed to **Grecia** and moves to **#10** — Jess wants some names in the roster to be Spanish-language, not just English. File renamed `agents/grace-evening-wrapup.md` → `agents/grecia-evening-wrapup.md`; role/scope itself unchanged.
 - Team is now 10 confirmed members. Updated `TEAM-ROSTER.md`, `ROADMAP.md`'s summary line, and Carrie's stub file to match.

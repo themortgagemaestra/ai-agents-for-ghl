@@ -25,18 +25,23 @@ Naming resolved 9/2/26: #9 was briefly dropped, then confirmed back as Carrie. #
 
 ## Role detail (what's confirmed so far, beyond the one-liner)
 
-**Bridgette — Morning Brief.** Every morning, Bridgette gives Jess:
-1. A prompt to write her 6 things she's grateful for.
-2. Her 5–6 "big rocks" — the main tasks for the day.
-3. A social media content idea for the day.
-4. A market or loan-product update she can use as talking material.
-5. Whatever got pushed over from the night before by Grecia (see below) — Bridgette and Grecia hand off to each other.
+**Bridgette — Morning Brief.** Modeled loosely on a real demo from Amber McCue's AI Clone Team training (a "chief of staff" morning brief), then stripped hard of the decorative filler in that version (energy/astrology cards, vague "ratio check" paragraphs, hedged padding) per Jess's direction: plain, direct, eighth-grade-simple language, no bullshit. Every morning, Bridgette gives Jess:
+1. **One Big Thing today** — a single headline task, bolded, one line on why.
+2. **On deck** — a short runner-up list for after the Big Thing is done.
+3. A reminder to write her 6 gratitudes — in her physical journal, not captured digitally.
+4. A one-line social media content spark (not a full draft — that's Callie's/Nia's job).
+5. A market or loan-product update.
+6. Whatever got pushed over from the night before by Grecia, read from the shared log (`agents/daily-brief-log.md`).
+
+Explicitly out of scope for now: email/GHL inbox triage — real value, but needs the GHL/email integration this project hasn't built yet. Later phase, not v1.
 
 **Grecia — Evening/Daily Wrap-Up Brief.** Mirrors a ritual Jess already does by hand: writing 6 wins/successes before shutting down for the day. Grecia's job:
-1. Help Jess pinpoint at least 6 things she accomplished that day.
+1. Help Jess pinpoint at least 6 things she accomplished that day. *(Open question: physical-journal-only like gratitude, or captured in the shared log? Not yet confirmed.)*
 2. Note what didn't get done.
-3. Decide what becomes tomorrow's big rock, and hand it to Bridgette.
+3. Decide what becomes tomorrow's Big Thing, and write it to the shared log for Bridgette.
 Tone: part personal assistant, part coach — celebrates wins, keeps Jess moving toward her goals, grounded in gratitude. Not just a status report.
+
+**The shared log.** Bridgette and Grecia write into one running file, `agents/daily-brief-log.md` (same newest-entry-at-top pattern as `EXECUTION-LEDGER.md`) — that's how they hand off to each other without needing any live integration.
 
 **Mafe — Meta Ads.** Full lifecycle expert: budgets, A/B testing, ad copy, every component of a Meta ad, and funneling those leads into GoHighLevel start to finish. Jess called this one out as the most urgent to build.
 
