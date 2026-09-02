@@ -30,13 +30,15 @@ Naming resolved 9/2/26: #9 was briefly dropped, then confirmed back as Carrie. #
 2. **On deck** — a short runner-up list for after the Big Thing is done.
 3. A reminder to write her 6 gratitudes — in her physical journal, not captured digitally.
 4. A one-line social media content spark (not a full draft — that's Callie's/Nia's job).
-5. A market or loan-product update.
+5. A market or loan-product update — confirmed sourcing (9/2/26): 10-year Treasury yield from CNBC first (the number tied to mortgage rates), plus the day's rate table from Mortgage News Daily (30-yr fixed conventional, 30-yr FHA, etc.), pulled live via web search each run, not hardcoded. Tested working: 10-yr yield 4.78%, 30-yr fixed conventional 6.91%, 30-yr FHA 6.45% (9/2/26).
 6. Whatever got pushed over from the night before by Grecia, read from the shared log (`agents/daily-brief-log.md`).
 
 Explicitly out of scope for now: email/GHL inbox triage — real value, but needs the GHL/email integration this project hasn't built yet. Later phase, not v1.
 
+**Open question — delivery.** Jess asked how she'll actually receive the brief. Two real options: **on-demand** (she asks for it in chat, works today) or **scheduled/automatic** (a recurring task runs it at set times and pushes a notification — closer to Amber's demo, needs Jess to pick times). Not yet decided.
+
 **Grecia — Evening/Daily Wrap-Up Brief.** Mirrors a ritual Jess already does by hand: writing wins/successes in her physical journal before shutting down for the day. Grecia's job:
-1. Give Jess a candidate list of things Grecia noticed her accomplish that day — not a fixed count, whatever's genuinely notable — as inspiration for Jess's own journal entry. Jess still decides and writes the real thing herself.
+1. Give Jess a candidate list of things Grecia knows she accomplished that day — sourced from Claude session activity and GHL activity (once connected), not a guess — as inspiration for Jess's own journal entry. Jess still decides and writes the real thing herself.
 2. Note what didn't get done.
 3. Decide what becomes tomorrow's Big Thing, and write it to the shared log for Bridgette.
 Tone: part personal assistant, part coach — celebrates wins, keeps Jess moving toward her goals, grounded in gratitude. Not just a status report.

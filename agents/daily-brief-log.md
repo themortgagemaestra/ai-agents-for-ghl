@@ -18,7 +18,7 @@ Modeled on a real "chief of staff" morning-brief demo from Amber McCue's AI Clon
 - Carried over from last night: [pulled from yesterday's evening entry, if anything]
 
 **Evening — Grecia**
-- Accomplishment inspo: [candidate list of things Grecia noticed Jess got done today — not a fixed count, not Jess's actual journal entry, just raw material for her to pick from when she writes her own physical journal]
+- Accomplishment inspo: [candidate list of things Grecia knows Jess got done today, sourced from Claude session activity and GHL activity (once connected) — not a fixed count, not Jess's actual journal entry, just raw material for her to pick from when she writes her own physical journal]
 - Didn't get to: [short list]
 - Tomorrow's Big Thing: [handed to Bridgette for the next morning entry]
 ```

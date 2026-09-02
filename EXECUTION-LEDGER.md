@@ -8,6 +8,12 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ## Log
 
+### 2026-09-02 (cont'd, part 7) — Market data source confirmed live; accomplishment sourcing sharpened; delivery still open
+- Jess confirmed Grecia's accomplishment list should be sourced specifically from what happens **while working with Claude** and **inside GHL** (once connected) — not a vague/generic list. Updated `agents/grecia-evening-wrapup.md`, `agents/daily-brief-log.md`, and `TEAM-ROSTER.md` to name those two channels explicitly.
+- Jess asked to connect Bridgette's market update to real sources: the **10-year Treasury yield from CNBC** (most important — it's the number tied to mortgage rates) plus a daily rate table from **Mortgage News Daily** (30-yr fixed conventional, 30-yr FHA, etc.). Tested live via web search and confirmed it works — no API/integration needed, just a search-and-read step each time Bridgette runs: 10-yr yield 4.78% ([CNBC](https://www.cnbc.com/quotes/US10Y-US)), 30-yr fixed conventional 6.91%, 30-yr FHA 6.45% ([Mortgage News Daily](https://www.mortgagenewsdaily.com/mortgage-rates)) as of 9/2/26. Documented as the confirmed source in `agents/bridgette-morning-brief.md` and `TEAM-ROSTER.md`.
+- Jess asked how the AM/PM brief will actually be delivered to her. Laid out the two real options available in this environment: on-demand (ask in chat, works today) vs. scheduled/automatic (a real recurring-task capability here, closer to how Amber's demo behaved, but needs Jess to pick times and a notification target). **Not yet decided** — captured as an open question in Bridgette's file.
+- **Not done yet:** delivery mechanism decision; the full `docs/training-doc-template.md` treatment for both Bridgette and Grecia.
+
 ### 2026-09-02 (cont'd, part 6) — Grecia's "wins" question resolved
 - Answered the last open question from Bridgette's interview: Grecia doesn't capture Jess's actual evening wins/journal entry, and doesn't need to land on exactly 6. She surfaces a candidate list of whatever she genuinely noticed Jess accomplish that day (pulled from the day's Big Thing/on-deck items and conversation) as inspiration — Jess reads it and decides what actually goes in her physical journal, same as gratitude in the morning.
 - Updated `agents/grecia-evening-wrapup.md`, `agents/daily-brief-log.md` (evening template line + a short resolution note), and `TEAM-ROSTER.md`'s role detail to match.
