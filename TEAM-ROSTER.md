@@ -35,8 +35,8 @@ Naming resolved 9/2/26: #9 was briefly dropped, then confirmed back as Carrie. #
 
 Explicitly out of scope for now: email/GHL inbox triage — real value, but needs the GHL/email integration this project hasn't built yet. Later phase, not v1.
 
-**Grecia — Evening/Daily Wrap-Up Brief.** Mirrors a ritual Jess already does by hand: writing 6 wins/successes before shutting down for the day. Grecia's job:
-1. Help Jess pinpoint at least 6 things she accomplished that day. *(Open question: physical-journal-only like gratitude, or captured in the shared log? Not yet confirmed.)*
+**Grecia — Evening/Daily Wrap-Up Brief.** Mirrors a ritual Jess already does by hand: writing wins/successes in her physical journal before shutting down for the day. Grecia's job:
+1. Give Jess a candidate list of things Grecia noticed her accomplish that day — not a fixed count, whatever's genuinely notable — as inspiration for Jess's own journal entry. Jess still decides and writes the real thing herself.
 2. Note what didn't get done.
 3. Decide what becomes tomorrow's Big Thing, and write it to the shared log for Bridgette.
 Tone: part personal assistant, part coach — celebrates wins, keeps Jess moving toward her goals, grounded in gratitude. Not just a status report.

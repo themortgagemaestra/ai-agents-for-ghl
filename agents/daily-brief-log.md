@@ -18,9 +18,13 @@ Modeled on a real "chief of staff" morning-brief demo from Amber McCue's AI Clon
 - Carried over from last night: [pulled from yesterday's evening entry, if anything]
 
 **Evening — Grecia**
-- Wins: [TBD pending Jess's answer — physical journal like gratitude, or captured here?]
+- Accomplishment inspo: [candidate list of things Grecia noticed Jess got done today — not a fixed count, not Jess's actual journal entry, just raw material for her to pick from when she writes her own physical journal]
 - Didn't get to: [short list]
 - Tomorrow's Big Thing: [handed to Bridgette for the next morning entry]
 ```
 
 No real entries yet — this file is ready to use once Bridgette and Grecia are fully built.
+
+## Note on the evening "wins" entry (resolved 9/2/26)
+
+Grecia doesn't write Jess's journal for her and doesn't need to land on exactly 6 items. She surfaces whatever she genuinely noticed Jess get done that day — pulled from the day's Big Thing/on-deck items and whatever came up in conversation — as raw inspiration. Jess reads it and decides what actually goes in her physical journal. The log holds Grecia's candidate list, not Jess's real journal entry.
