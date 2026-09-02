@@ -7,7 +7,8 @@ This folder is prepared to become a GitHub repository once Claude Code is set up
 ## What's in here
 
 - **`EXECUTION-LEDGER.md`** — the project's memory. What's been done, what's decided, what's next. Read this first, every session.
-- **`ROADMAP.md`** — the full team roster: who's built, who's next, why this project exists, and the platform decisions behind it.
+- **`ROADMAP.md`** — why this project exists and the platform decisions behind it.
+- **`TEAM-ROSTER.md`** — the actual team, one page: every agent's name and role, what's a real teammate vs. background reference, and the full candidate list for what to build next.
 - **`docs/training-doc-template.md`** — the 14-section structure every new AI teammate is built from (extracted from Amber McCue's own training-doc format).
 - **`agents/`** — one file per AI teammate. Each one is a complete, ready-to-load training doc.
 

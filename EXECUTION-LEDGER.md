@@ -8,6 +8,12 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ## Log
 
+### 2026-09-02 (cont'd) — GitHub confirmed live; team roster planning doc
+- Picked this back up the same day. Checked git state directly instead of trusting the note in the entry below: the GitHub push already happened — `origin` is set to `https://github.com/themortgagemaestra/ai-agents-for-ghl.git`, three commits exist, and the branch is up to date with `origin/main`, working tree clean. Correcting the "not done yet" note below — that setup step is complete.
+- Jess asked for a planning document listing every AI teammate by name and role before building any more of them, prompted by remembering the newsletter-email skill and the NCF brand kit from an earlier coworking conversation and wondering whether those are agents too. Built `TEAM-ROSTER.md` to answer that: separates true persona agents (Meg, and stubs Carrie/Linda) from reference/infrastructure skills that feed every agent but aren't themselves agents (`jessica-personal-brand`, `ncf-digital-heloc`). Proposed names for the two unnamed-but-real teammates, both pulled from Amber McCue's own 27-role roster already in `docs/training-doc-template.md`: `ncf-email-builder` → **Nia** ("Newsletter," Ops), and `morning` → **Bridgette** ("Morning Brief," Ops) — pending Jess's confirmation.
+- Carried Amber's full 27-role roster into `TEAM-ROSTER.md` as a pick-list by department (Content/Growth/Ops/Strategy) with build status against each, since Jess wants to choose what gets built next herself rather than defaulting to the old Carrie → Linda order.
+- **Not done yet:** Jess hasn't confirmed the Nia/Bridgette naming, and hasn't picked what gets built next — that's the open decision for next session.
+
 ### 2026-09-02 — Repo scaffold prepared, ahead of Claude Code setup
 - Jess's CRM coach Jonathan Farrell reviewed her Claude Projects approach to this AI clone team on today's coaching call, confirmed it's on the right track, and recommended moving it into Claude Code + a GitHub repo to level it up further and eventually connect it to GoHighLevel.
 - While Jess was on a call, pulled the real project content out of Google Drive (Meg AI's full training doc, the training-doc template, the team roadmap) and organized it into the file structure this repo needs — `README.md`, `ROADMAP.md`, `docs/training-doc-template.md`, `agents/meg-ai.md` — so the eventual move into GitHub is a copy-in, not a rebuild.
