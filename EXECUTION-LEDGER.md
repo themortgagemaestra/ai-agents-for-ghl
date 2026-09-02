@@ -8,11 +8,15 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ## Log
 
+### 2026-09-02 — Live on GitHub. Migration complete.
+- Jess installed Git, created her GitHub account (`themortgagemaestra`), and pushed this repo herself via Git Bash — first time ever using a terminal. Hit and cleared real beginner snags along the way: browsing a zip's contents instead of extracting it first, a double-nested folder from extraction, an accidental copy-paste of terminal text instead of the intended command block. All resolved; nothing broken.
+- Repo is live at `github.com/themortgagemaestra/ai-agents-for-ghl`, currently **Public** (flagged to Jess that Private may fit better given the business-strategy content here — her call, not yet changed).
+- **This closes out the whole migration Jonathan recommended on today's coaching call.** Git, GitHub, and the connection between this project and GitHub are fully set up. Nothing left to install or configure.
+- **What's next is work, not setup:** Meg AI is trained and ready to use as-is (`agents/meg-ai.md`). Carrie (content-to-conversion) is next to build — needs a real business-context interview with Jess first (questions already drafted and sitting in her Google Drive "AI Agents" folder, titled "Carrie — Interview Questions"), same training depth Meg AI got, not a quick job description.
+
 ### 2026-09-02 — Repo scaffold prepared, ahead of Claude Code setup
 - Jess's CRM coach Jonathan Farrell reviewed her Claude Projects approach to this AI clone team on today's coaching call, confirmed it's on the right track, and recommended moving it into Claude Code + a GitHub repo to level it up further and eventually connect it to GoHighLevel.
 - While Jess was on a call, pulled the real project content out of Google Drive (Meg AI's full training doc, the training-doc template, the team roadmap) and organized it into the file structure this repo needs — `README.md`, `ROADMAP.md`, `docs/training-doc-template.md`, `agents/meg-ai.md` — so the eventual move into GitHub is a copy-in, not a rebuild.
-- **Not done yet:** Git isn't installed and GitHub account isn't created on Jess's computer; Claude Code desktop app isn't installed; this folder hasn't actually been pushed to GitHub as a real repo yet. That's the next session's work, once Jess has done the one-time setup (see the "AI Agents for GHL" roadmap page built earlier today).
-- **Next agent to build** once this repo is live: Carrie (content-to-conversion — reviews/rewrites sales and landing page copy). Same training depth expected as Meg AI — a real business-context interview, not a quick job description.
 
 ### 2026-09-01 — Meg AI built and trained
 - Attended Amber McCue's "AI Clone Team" workshop (Sept 1, 2026); decided to build the equivalent roster herself, for free, as Claude Skills — Claude is McCue's own recommended platform anyway, and no GHL connector exists yet to build directly inside GoHighLevel.
