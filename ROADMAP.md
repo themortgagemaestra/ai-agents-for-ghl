@@ -10,19 +10,9 @@ Training standard: each team member should be thoroughly trained before it's con
 
 ## Team roster
 
-**Built, pre-existing:**
-- `ncf-email-builder` — bilingual weekly emails & monthly newsletters
-- `jessica-personal-brand` — personal voice/positioning guardrails (part of the "Clone File")
-- `ncf-digital-heloc` — product knowledge reference
-- `morning` — daily brief/dashboard (not yet NCF-customized)
+See `TEAM-ROSTER.md` — the current source of truth for the full team: every name, role, and build status. This section used to duplicate that list; now it just points there so the two can't drift out of sync.
 
-**Built and fully trained:**
-- **Meg AI** (`agents/meg-ai.md`) — marketing strategist / CMO-in-a-box. Trained on Jess's real competitive landscape, current-state audit, confirmed goals, time budget, and decision authority. Prioritizes, audits, builds plans; routes actual writing to the right existing skill rather than writing it herself. Quiz's #1 recommended starting point.
-
-**Not built yet, in priority order:**
-- **Carrie** — content-to-conversion: reviews/rewrites sales & landing page copy specifically for conversion (quiz's 2nd priority). Needs the same depth of onboarding as Meg AI.
-- **Linda** — landing page builder: full landing/sales pages, not just copy.
-- Callie (core content creator) is quiz's 3rd priority but is largely already covered by `ncf-email-builder`.
+Quick summary as of 9/2/26: 9 team members confirmed (Meg, Nia, Bridgette, Mafe, Callie, Linda, Wanda, Gia, and a 9th evening-brief role still being named). Only Meg is fully built and trained; Bridgette is next, with Mafe flagged as the most urgent build after that.
 
 ## Platform decision
 

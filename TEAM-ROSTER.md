@@ -1,33 +1,59 @@
 # AI Clone Team — Roster Planning
 
-One page to see the whole team: who's built, who's a real agent vs. background reference, and who's still available to build. Read this before deciding what gets built next — update it any time the roster changes.
+One page to see the whole team: who's built, what each one actually does, and who's still available to build. Read this before deciding what gets built next — update it any time the roster changes.
 
-## Answering the open question: is the newsletter skill an agent? Is the brand kit?
+## Confirmed team (as of 2026-09-02)
 
-Short version: **the newsletter builder should probably get a name — the brand kit shouldn't.**
+Jess's own numbered list, roles as she described them. This is now the team, replacing the old default Carrie → Linda build order.
 
-The distinction that matters: does it *produce output on request* (an agent/teammate), or does it *feed facts and rules to other agents* (reference material, part of the Clone File)?
+| # | Name | Role | Status |
+|---|---|---|---|
+| 1 | **Meg** | Marketing strategist / CMO-in-a-box | Built & trained — `agents/meg-ai.md` |
+| 2 | **Nia** | Newsletter & email — absorbs `ncf-email-builder` | Identity confirmed — `agents/nia-newsletter.md` (interview pending) |
+| 3 | **Bridgette** | Morning brief | Scope confirmed, build greenlit — `agents/bridgette-morning-brief.md` |
+| 4 | **Mafe** (Maria Fernanda) | Meta ads specialist | Flagged urgent by Jess — build ASAP — `agents/mafe-meta-ads.md` |
+| 5 | **Callie** | Core content — mortgage & real estate content, personality-first | Stub — `agents/callie-core-content.md` |
+| 6 | **Linda** | Landing page builder, fully GHL-integrated | Stub — `agents/linda-landing-page-builder.md` |
+| 7 | **Wanda** | The Workflow Queen — GHL workflows & drip campaigns | Stub — `agents/wanda-workflow-queen.md` |
+| 8 | **Gia** | The GHL Queen — CRM management & optimization | Stub — `agents/gia-ghl-queen.md` |
+| 9 | **Grace** *(proposed — Jess asked Claude to name this one)* | Evening/daily wrap-up brief, Bridgette's counterpart | Stub — `agents/grace-evening-wrapup.md` |
 
-- **`ncf-email-builder`** writes bilingual weekly emails and monthly newsletters — that's a deliverable, the same shape of work as Carrie or Linda's. It reads like a real teammate that just never got a name. Amber McCue's own 27-role roster (already in `docs/training-doc-template.md`) has a role that's exactly this: **Nia — Newsletter** (Ops department). Proposed: rename/reframe this skill as **Nia**.
-- **`morning`** (the daily brief) is the same situation — it produces a standing deliverable, just not yet customized to NCF. Amber's roster has **Bridgette — Morning Brief** (Ops). Proposed: **Bridgette**, once it's NCF-customized.
-- **`jessica-personal-brand`** doesn't produce anything on its own — it's the ruleset every other agent checks before writing anything public-facing (how your name/title appear, when "The Mortgage Maestra" applies, contact block, etc.). That's infrastructure, like a style guide, not a teammate. No name needed.
-- **`ncf-digital-heloc`** is the same shape — a facts reference (rates, LTV, credit pull mechanics) every agent pulls from. No name needed.
+**Open question:** Carrie (content-to-conversion) isn't in this numbered list, even though she has an existing stub and was in the original plan. Dropped on purpose, or just not gotten to yet? Her stub is untouched either way until you say.
 
-This is a judgment call, not a fixed rule — say the word if you'd rather name the reference skills too, or *not* name Nia/Bridgette and leave them as plain utility skills.
+**Naming Grace:** you asked Claude to make one up. "Grace" ties to the gratitude/wins theme this role runs on. If it doesn't feel right, other options in the same style: **Ember** (end-of-day, winding down) or **Vera**. Say the word and the file gets renamed.
 
 ---
 
-## Active team (agents — produce work, have a persona)
+## Role detail (what's confirmed so far, beyond the one-liner)
 
-| Name | Role | Department | Status | Lives at |
-|---|---|---|---|---|
-| **Meg** (Meg AI) | Marketing strategist / CMO-in-a-box | Growth | ✅ Fully trained | `agents/meg-ai.md` |
-| **Nia** *(proposed name)* | Newsletter & email writer — bilingual weekly emails, monthly newsletters | Ops | ⚠️ Built, but as an untrained/unnamed skill (`ncf-email-builder`) — no business-context interview yet | Claude Skill `ncf-email-builder` |
-| **Bridgette** *(proposed name)* | Morning brief / daily dashboard | Ops | ⚠️ Built, generic — not yet NCF-customized | Claude Skill `morning` |
-| **Carrie** | Content-to-conversion — reviews/rewrites sales & landing page copy | Growth | 🔲 Stub only, not built | `agents/carrie-content-to-conversion.md` |
-| **Linda** | Landing page builder — full pages, not just copy | Content | 🔲 Stub only, not built | `agents/linda-landing-page-builder.md` |
+**Bridgette — Morning Brief.** Every morning, Bridgette gives Jess:
+1. A prompt to write her 6 things she's grateful for.
+2. Her 5–6 "big rocks" — the main tasks for the day.
+3. A social media content idea for the day.
+4. A market or loan-product update she can use as talking material.
+5. Whatever got pushed over from the night before by Grace (see below) — Bridgette and Grace hand off to each other.
+
+**Grace (proposed) — Evening/Daily Wrap-Up Brief.** Mirrors a ritual Jess already does by hand: writing 6 wins/successes before shutting down for the day. Grace's job:
+1. Help Jess pinpoint at least 6 things she accomplished that day.
+2. Note what didn't get done.
+3. Decide what becomes tomorrow's big rock, and hand it to Bridgette.
+Tone: part personal assistant, part coach — celebrates wins, keeps Jess moving toward her goals, grounded in gratitude. Not just a status report.
+
+**Mafe — Meta Ads.** Full lifecycle expert: budgets, A/B testing, ad copy, every component of a Meta ad, and funneling those leads into GoHighLevel start to finish. Jess called this one out as the most urgent to build.
+
+**Callie — Core Content.** Mortgage and real estate content ideas with real personality — explicitly not generic, not AI-sounding. Reference points Jess named: Caroline Sells Colorado and The Mortgage Nerd on Instagram (real-talk, non-"mortgagey" mortgage content). Also needs to generate content that isn't about mortgages at all — general/lifestyle/interest content that shows Jess as a multi-faceted person, not just a lender.
+
+**Linda — Landing Pages.** Full GHL landing pages, not just copy — fully integrated with Jess's social media, email, and texting, not standalone pages.
+
+**Wanda — The Workflow Queen.** GHL workflow and drip-campaign expert. Builds engaging workflows integrating SMS, email, and social; converts cold → warm → hot leads into closed loans; specifically responsible for routing Meta-sourced leads (from Mafe's ads) into the right workflows and keeping them organized.
+
+**Gia — The GHL Queen.** CRM best-practices expert — keeps GHL clean, neat, optimized. Takes notes from the Monday pipeline meeting (Jess, her mom, and Bobby) and turns them into updates across opportunities, contacts, and workflows in GHL. Answers Jess's GHL questions and gives usage guidance.
+
+---
 
 ## Reference & infrastructure (not agents — feed the agents above)
+
+Confirmed 9/2/26 — these stay as rulebook/fact-sheet skills every agent checks before producing anything, not standalone teammates:
 
 | Name | What it holds | Feeds |
 |---|---|---|
@@ -37,56 +63,35 @@ This is a judgment call, not a fixed rule — say the word if you'd rather name 
 
 ---
 
-## Full candidate roster (Amber McCue's 27 roles, for picking what's next)
+## Full candidate roster (Amber McCue's 27 roles — anyone not yet claimed)
 
-Everything below is from Amber's original roster (`docs/training-doc-template.md`), sorted by her own department groupings. Use this as the pick-list instead of defaulting to Carrie → Linda — pick whichever ones actually matter for NCF right now.
+For reference, in case a future need matches one of these more precisely than a custom name. From `docs/training-doc-template.md`.
 
 ### Content
-| Role | Status |
-|---|---|
-| Callie — Core Content | Largely covered already by Nia/`ncf-email-builder` |
-| Riley — Repurposing | Not built |
-| **Linda — Landing Pages** | Stub exists |
-| Glenda — Guest Research | Not built |
-| Wynn — Podcast Scripts | Not built |
-| Polly — Podcast Producer | Not built |
-| Crystal — Carousels | Not built |
-| Quinn — Curriculum Designer | Not built |
+Callie claimed · Linda claimed · Riley (Repurposing), Glenda (Guest Research), Wynn (Podcast Scripts), Polly (Podcast Producer), Crystal (Carousels), Quinn (Curriculum Designer) — unclaimed
 
 ### Growth
-| Role | Status |
-|---|---|
-| **Meg — CMO** | ✅ Built and trained |
-| Izzy — Marketing Insights | Not built |
-| Suzie — Social Media | Not built |
-| Lena — LinkedIn | Not built |
-| Manny — ManyChat | Not built |
-| **Carrie — Content-to-Conversion** | Stub exists |
-| Lakeisha — Launch Emails | Not built |
+Meg claimed · Carrie (Content-to-Conversion) — status open, see above · Izzy (Marketing Insights), Suzie (Social Media), Lena (LinkedIn), Manny (ManyChat), Lakeisha (Launch Emails) — unclaimed
+*(Mafe, Wanda, Gia are custom roles Jess created — not from Amber's list.)*
 
 ### Ops
-| Role | Status |
-|---|---|
-| Cassie — Customer Service | Not built |
-| Dorothy — Delegation | Not built |
-| Rachel — Process Requests | Not built |
-| CEO Time — Weekly Planning | Not built |
-| **Nia — Newsletter** | Built, unnamed (`ncf-email-builder`) — proposed match above |
-| Sloane — SOP Creation | Not built |
-| Hope — Interview Questions | Not built |
-| **Bridgette — Morning Brief** | Built, generic (`morning`) — proposed match above |
-| Willa — Daily Wellness | Not built |
+Nia claimed (mapped from "Nia — Newsletter") · Bridgette claimed (mapped from "Bridgette — Morning Brief") · Cassie (Customer Service), Dorothy (Delegation), Rachel (Process Requests), CEO Time (Weekly Planning), Sloane (SOP Creation), Hope (Interview Questions), Willa (Daily Wellness) — unclaimed
+*(Grace is a custom role Jess created — not from Amber's list.)*
 
 ### Strategy
-| Role | Status |
-|---|---|
-| Marlow — Modern CFO | Not built |
-| Allie — Market & Competitive | Not built |
-| Betty — Business Plan Builder | Not built |
+Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder) — unclaimed
 
 ---
 
+## Build order
+
+1. Roster planning — done, this doc.
+2. **Bridgette** — explicitly greenlit this session. Next step: the real business-context interview (`docs/training-doc-template.md`), same depth as Meg got.
+3. **Mafe** — flagged as most urgent by Jess. Likely right after Bridgette, or in parallel if Jess wants to interview for both.
+4. Everyone else (Callie, Linda, Wanda, Gia, Grace, Nia's full interview) — order still open.
+
 ## Decisions needed from Jess
 
-1. **Confirm or reject the Nia / Bridgette naming.** If confirmed, next step is giving each the same real business-context interview Meg got (per `docs/training-doc-template.md`), not just a rename.
-2. **Pick what gets built next**, instead of the old default order (Carrie, then Linda). Anything from the candidate roster above is fair game — say which ones you actually want on the team.
+1. Is Carrie still on the team, and where does she rank?
+2. Does "Grace" work for #9, or a different name?
+3. Bridgette's interview first, then Mafe's — or interview both before building either?
