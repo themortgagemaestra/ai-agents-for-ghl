@@ -16,11 +16,10 @@ Jess's own numbered list, roles as she described them. This is now the team, rep
 | 6 | **Linda** | Landing page builder, fully GHL-integrated | Stub — `agents/linda-landing-page-builder.md` |
 | 7 | **Wanda** | The Workflow Queen — GHL workflows & drip campaigns | Stub — `agents/wanda-workflow-queen.md` |
 | 8 | **Gia** | The GHL Queen — CRM management & optimization | Stub — `agents/gia-ghl-queen.md` |
-| 9 | **Grace** *(proposed — Jess asked Claude to name this one)* | Evening/daily wrap-up brief, Bridgette's counterpart | Stub — `agents/grace-evening-wrapup.md` |
+| 9 | **Carrie** | Content-to-conversion — reviews/rewrites sales & landing page copy | Confirmed back on the team 9/2/26 — `agents/carrie-content-to-conversion.md` |
+| 10 | **Grecia** | Evening/daily wrap-up brief, Bridgette's counterpart | Stub — `agents/grecia-evening-wrapup.md` |
 
-**Open question:** Carrie (content-to-conversion) isn't in this numbered list, even though she has an existing stub and was in the original plan. Dropped on purpose, or just not gotten to yet? Her stub is untouched either way until you say.
-
-**Naming Grace:** you asked Claude to make one up. "Grace" ties to the gratitude/wins theme this role runs on. If it doesn't feel right, other options in the same style: **Ember** (end-of-day, winding down) or **Vera**. Say the word and the file gets renamed.
+Naming resolved 9/2/26: #9 was briefly dropped, then confirmed back as Carrie. #10 (originally proposed as "Grace") is now **Grecia** — Jess wants some names in the roster to be Spanish.
 
 ---
 
@@ -31,9 +30,9 @@ Jess's own numbered list, roles as she described them. This is now the team, rep
 2. Her 5–6 "big rocks" — the main tasks for the day.
 3. A social media content idea for the day.
 4. A market or loan-product update she can use as talking material.
-5. Whatever got pushed over from the night before by Grace (see below) — Bridgette and Grace hand off to each other.
+5. Whatever got pushed over from the night before by Grecia (see below) — Bridgette and Grecia hand off to each other.
 
-**Grace (proposed) — Evening/Daily Wrap-Up Brief.** Mirrors a ritual Jess already does by hand: writing 6 wins/successes before shutting down for the day. Grace's job:
+**Grecia — Evening/Daily Wrap-Up Brief.** Mirrors a ritual Jess already does by hand: writing 6 wins/successes before shutting down for the day. Grecia's job:
 1. Help Jess pinpoint at least 6 things she accomplished that day.
 2. Note what didn't get done.
 3. Decide what becomes tomorrow's big rock, and hand it to Bridgette.
@@ -71,12 +70,12 @@ For reference, in case a future need matches one of these more precisely than a 
 Callie claimed · Linda claimed · Riley (Repurposing), Glenda (Guest Research), Wynn (Podcast Scripts), Polly (Podcast Producer), Crystal (Carousels), Quinn (Curriculum Designer) — unclaimed
 
 ### Growth
-Meg claimed · Carrie (Content-to-Conversion) — status open, see above · Izzy (Marketing Insights), Suzie (Social Media), Lena (LinkedIn), Manny (ManyChat), Lakeisha (Launch Emails) — unclaimed
+Meg claimed · Carrie claimed · Izzy (Marketing Insights), Suzie (Social Media), Lena (LinkedIn), Manny (ManyChat), Lakeisha (Launch Emails) — unclaimed
 *(Mafe, Wanda, Gia are custom roles Jess created — not from Amber's list.)*
 
 ### Ops
 Nia claimed (mapped from "Nia — Newsletter") · Bridgette claimed (mapped from "Bridgette — Morning Brief") · Cassie (Customer Service), Dorothy (Delegation), Rachel (Process Requests), CEO Time (Weekly Planning), Sloane (SOP Creation), Hope (Interview Questions), Willa (Daily Wellness) — unclaimed
-*(Grace is a custom role Jess created — not from Amber's list.)*
+*(Grecia is a custom role Jess created — not from Amber's list.)*
 
 ### Strategy
 Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder) — unclaimed
@@ -86,12 +85,6 @@ Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder)
 ## Build order
 
 1. Roster planning — done, this doc.
-2. **Bridgette** — explicitly greenlit this session. Next step: the real business-context interview (`docs/training-doc-template.md`), same depth as Meg got.
-3. **Mafe** — flagged as most urgent by Jess. Likely right after Bridgette, or in parallel if Jess wants to interview for both.
-4. Everyone else (Callie, Linda, Wanda, Gia, Grace, Nia's full interview) — order still open.
-
-## Decisions needed from Jess
-
-1. Is Carrie still on the team, and where does she rank?
-2. Does "Grace" work for #9, or a different name?
-3. Bridgette's interview first, then Mafe's — or interview both before building either?
+2. **Bridgette** — confirmed 9/2/26 as the next build. Real business-context interview (`docs/training-doc-template.md`) starts now, same depth as Meg got.
+3. **Mafe** — flagged as most urgent by Jess. Next after Bridgette.
+4. Everyone else (Carrie, Callie, Linda, Wanda, Gia, Grecia, Nia's full interview) — order still open.

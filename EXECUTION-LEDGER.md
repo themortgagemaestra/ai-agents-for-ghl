@@ -6,7 +6,11 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ---
 
-## Log
+### 2026-09-02 (cont'd, part 4) — Carrie restored, Grace renamed to Grecia, Bridgette's interview starts
+- Resolved the two open questions from the last update. **Carrie** is confirmed still on the team — Jess remembered her from an earlier planning doc and wants her back — slotted in as **#9** (content-to-conversion, scope unchanged). **"Grace"** (the evening/wrap-up-brief role, #9 in the prior draft) is renamed to **Grecia** and moves to **#10** — Jess wants some names in the roster to be Spanish-language, not just English. File renamed `agents/grace-evening-wrapup.md` → `agents/grecia-evening-wrapup.md`; role/scope itself unchanged.
+- Team is now 10 confirmed members. Updated `TEAM-ROSTER.md`, `ROADMAP.md`'s summary line, and Carrie's stub file to match.
+- Jess reconfirmed Bridgette goes first for the real business-context interview (over Mafe, despite Mafe's urgency flag) — next step is that interview.
+- **Not done yet:** Bridgette's actual training-doc interview hasn't happened yet — starting next.
 
 ### 2026-09-02 (cont'd, part 3) — Full 9-person roster confirmed, named, and scoped
 - Jess confirmed the Nia/Bridgette naming from the last update and gave her actual roster in one pass, as a numbered list: 1) Meg (CMO, built), 2) Nia (newsletter, absorbs `ncf-email-builder`), 3) Bridgette (morning brief — greenlit to build now, with confirmed scope: 6 gratitudes, 5–6 big rocks, a social content idea, a market/loan update, plus handoff from #9), 4) Mafe/Maria Fernanda (Meta ads specialist — full lifecycle: budgets, A/B testing, copy, GHL lead funnel — flagged as the most urgent build), 5) Callie (core content — personality-driven mortgage/lifestyle content, referencing Caroline Sells Colorado and The Mortgage Nerd as tone models), 6) Linda (landing pages — now specifically "fully integrated with social, email, and texting"), 7) Wanda (the Workflow Queen — GHL workflows/drip campaigns, routes Mafe's Meta leads, cold→warm→hot→closed), 8) Gia (the GHL Queen — CRM hygiene/best practices, turns the Monday pipeline meeting notes with Jess's mom and Bobby into GHL updates, answers GHL questions), 9) an unnamed evening/wrap-up-brief role Jess asked Claude to name — proposed **Grace**, mirroring Jess's own daily ritual of writing 6 wins before shutting down, handing tomorrow's big rock to Bridgette.

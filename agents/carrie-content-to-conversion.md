@@ -1,6 +1,6 @@
 # Carrie — Content-to-Conversion
 
-**Status: not built yet.** Next in line after Meg AI, per `ROADMAP.md`.
+**Status: not built yet.** Confirmed back on the team 9/2/26 (was briefly dropped from the roster, then re-added). See `TEAM-ROSTER.md` (#9).
 
 ## What this role is for
 
