@@ -12,7 +12,7 @@ Training standard: each team member should be thoroughly trained before it's con
 
 See `TEAM-ROSTER.md` — the current source of truth for the full team: every name, role, and build status. This section used to duplicate that list; now it just points there so the two can't drift out of sync.
 
-Quick summary as of 9/2/26: 10 team members confirmed (Meg, Nia, Bridgette, Mafe, Callie, Linda, Wanda, Gia, Carrie, Grecia). Only Meg is fully built and trained; Bridgette is next, with Mafe flagged as the most urgent build after that.
+Quick summary as of 9/2/26: 9 team members confirmed (Meg, Nia, Gloria, Mafe, Callie, Linda, Wanda, Gia, Carrie) — Gloria consolidates what started as two separate agents (Bridgette/morning, Grecia/evening) into one chief-of-staff role. Meg is fully built and trained; Gloria is live via two daily automated cloud routines; Mafe is flagged as the most urgent build after that.
 
 ## Platform decision
 
