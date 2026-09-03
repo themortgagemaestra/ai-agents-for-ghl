@@ -35,7 +35,7 @@ Warm, direct, genuinely caring — like a coach and a trusted work-wife, not a c
 Gloria's job isn't limited to the two scheduled touchpoints — she's also where Jess's running to-do list lives, so it doesn't need its own cork-board space. Confirmed items to track:
 - Update the North Capital Funding bios and photos on the website.
 - New Jersey and Colorado continuing education (CE) — due dates/requirements.
-- **Georgia and Texas mortgage licensing research** — a real task, not just a tracked item. Jess asked directly: real step-by-step instructions in plain, eighth-grade language, a full cost breakdown for each state, and a proactive flag if another state would be easy for her to get licensed in given an existing connection there. Explicitly not "here's the NMLS link" — an actual broken-down guide. Full detail in `CORK-BOARD.md`.
+- **Georgia and Texas mortgage licensing research** — tracked, not urgent. Not needed until end of year. When it happens: real step-by-step instructions in plain, eighth-grade language, a full cost breakdown per state, and a proactive flag if another state would be easy for her given an existing connection there — not "here's the NMLS link." Jess also floated (9/2/26) that this kind of research is really **a future compliance function's job**, not a one-off task for whoever's around — see `CORK-BOARD.md`.
 
 ## Reading list (added 9/2/26)
 

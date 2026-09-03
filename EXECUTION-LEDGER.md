@@ -8,6 +8,11 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ## Log
 
+### 2026-09-02 (cont'd, part 11) — Corrected course: licensing research isn't urgent, roster needed a visual
+- Jess pushed back hard on the previous session's recommendation to do the Georgia/Texas licensing research next: not urgent (not needed until end of year), and it's actually a future compliance function's job, not something to do right now. Corrected `agents/gloria-assistant.md` and `CORK-BOARD.md` to reflect that — deferred and de-emphasized, no longer framed as "the next action."
+- Jess also pushed back on the markdown-file-only format for tracking the roster — wanted an actual visual table she could look at directly in the Claude Code desktop app: name, what they do, key tasks, and "vibe." Published `The Clone Team` as an Artifact (a real HTML table, not another doc) covering all 11 named roles with an honest status column, since Jess specifically didn't believe everything was actually built (correctly — only Meg is built/trained and Gloria is live; the other 9 are concepts only).
+- **Not done yet:** picking and starting the next real agent build (Mafe recommended, per her own earlier urgency flag — see this turn's response for the recommendation).
+
 ### 2026-09-02 (cont'd, part 10) — The cork board: a full brain dump captured
 - Jess has a real cork board in her office (Ideas / In Progress / Complete columns) from her work with marketing coach Tiffany Rose — stale for months, from before she moved. She took it down to refresh it, and dictated everything on it via Wispr Flow before it was lost. Created `CORK-BOARD.md` as the permanent digital version — explicitly a parking lot, not the active roster; nothing in it is being built right now.
 - **Two new agent concepts captured, named by Jess, added to `TEAM-ROSTER.md` under "captured but not yet build-queued":**
@@ -19,8 +24,6 @@ This file is the project's memory. Read it first, every session, before doing an
 - Minor confirmed tasks logged against existing agents: Linda gets a GHL-built link-tree landing page (replacing a paid Linktree subscription); Wanda also builds Ricky's refi/HELOC drip campaigns, not just Mafe's.
 - Undeveloped merch/marketing fragments (bookmarks, seed packets, "Unlock Your Bright Future," resources for realtors, etc.) captured verbatim in `CORK-BOARD.md` without over-interpreting — Jess's own words: "weird, random, nothing ideas yet."
 - **Not done yet:** the Georgia/Texas licensing research (next concrete action); resolving Callie's scope question; everything else in `CORK-BOARD.md` stays parked until Jess is ready.
-
-## Log
 
 ### 2026-09-02 (cont'd, part 9) — Bridgette + Grecia consolidated into Gloria
 - Jess reconsidered right after Bridgette/Grecia went live: why two separate agents for one day, when she experiences it as one continuous presence? She wants a single chief-of-staff/assistant — named **Gloria** — running both the morning check-in and the evening wrap-up, same voice, not a handoff between strangers. Described her explicitly as "my right-hand... kind of like my work wife," someone who keeps her organized and on track (Jess has ADHD), celebrates real wins warmly and specifically, and is generally available beyond just the two scheduled touchpoints.

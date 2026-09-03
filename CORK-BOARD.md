@@ -25,7 +25,7 @@ This file is the digital version of that board. **Nothing here is being built ri
 - **General to-do tracking** — not everything needs its own agent or its own cork board space. Confirmed to-dos for Gloria to hold onto:
   - Update the North Capital Funding bios and photos on the website.
   - New Jersey and Colorado continuing education (CE) — due dates/requirements.
-  - **Georgia and Texas mortgage licensing** — Jess asked for this directly, not just noted: real step-by-step instructions in plain language (her words: "eighth-grade-level," "don't just send me the NMLS website"), plus full cost breakdown for each state, plus a proactive flag if there's a state that would be easy for her to get licensed in given an existing connection there. This is an actual task to complete, not just an idea to log — see "what's next."
+  - **Georgia and Texas mortgage licensing** — real step-by-step instructions in plain language (her words: "eighth-grade-level," "don't just send me the NMLS website"), plus full cost breakdown for each state, plus a proactive flag if there's a state that would be easy for her given an existing connection there. **Not urgent — not needed until end of year (9/2/26 correction).** Jess also raised the idea of a dedicated **compliance function** (part of Gloria, or its own future agent) that owns this kind of research permanently, rather than it being a one-off task — not scoped further yet, just noted here.
 
 ### Ideas → Linda's job
 
