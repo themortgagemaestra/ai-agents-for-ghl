@@ -39,6 +39,28 @@ Modeled on a real "chief of staff" morning-brief demo from Amber McCue's AI Clon
 - Market/loan update (9/3/26, most recent readings available this morning): 10-year Treasury yield ~4.78%, near its highest level since November 2023 (CNBC). Mortgage News Daily: 30-year fixed conventional ~6.91%, 30-year FHA ~6.45% — both still climbing.
 - Carried over from last night: the GHL/pipeline push and Meta ads prep above both came straight from last night's plan. The Adriana text was a one-time flag, not part of the regular brief — handled above.
 
+**Gloria — Evening**
+
+**Accomplishment inspo — real wins today, here's what's real:**
+- Found and fixed a real blocker herself: GitHub was blocking pushes with a 403 because the Claude GitHub App wasn't authorized on this repo. Walked you through the actual fix — the GitHub-side installation page, not claude.ai's own connector settings — and pushes went right back to working.
+- Nia shipped her first two real email builds: the Sept 17 Hispanic Heritage Month send and the Sept 18 equity check-in, both pulled from your real September email calendar.
+- Caught and permanently killed two real recurring bugs while doing it: emails rendering shrunk on mobile Gmail (fixed in both master templates so it can't come back), and the "same-day closing" claim you've had to correct before (replaced everywhere with the accurate three-weeks-or-less, with a loud warning built into the skill file so it can't resurface).
+- Captured your real voice rules — no em dashes, "Latin@" as the preferred term, always naming NCF as Latina-owned, no invented testimonials, and more — plus two real client testimonials, permanently into the email-builder skill, so none of it has to be re-explained next time.
+- Found a real, concrete path to finally connect GoHighLevel: Zapier is available in this environment and has native GHL support — the exact option you yourself flagged months ago ("even if it means paying for a Zapier subscription").
+- Renamed Callie to Carlos across every doc — your call, your agents not clones, no reason content roles default female — and gave Carlos his real business-context interview. He's built and trained now: your actual social media manager, not just a stub.
+
+That's real, concrete progress — not busywork, even though it took a different shape than the morning's plan.
+
+**Didn't get to:**
+- Today's stated #1: pushing the GHL/pipeline sync forward. Second day in a row it didn't start — the whole day went to Nia's email builds instead.
+- Meta ads prep with Carlos and Mafe.
+- Testing Meg.
+- (Georgia/Texas licensing correctly stayed parked for tomorrow, Friday 9/4 — that one's on track, not a miss.)
+
+**Tomorrow's Big Thing:** **Actually connect Zapier and get the GHL/pipeline bridge moving.** This has slipped two days straight, and today you finally found the real unblocked path to do it — worth using before it slips a third time. Georgia/Texas licensing research also happens tomorrow, already locked in for Friday 9/4 — a separate, already-scheduled item, not competing with the Big Thing.
+
+Good night, Jess. Real progress today, even if it wasn't the plan you woke up with — rest up.
+
 ### 2026-09-02
 
 **Gloria — Evening** *(delivered live, past 5pm Mountain — the automated routine doesn't fire until tomorrow; this was the first real day, so there's no automated morning entry above it either)*
