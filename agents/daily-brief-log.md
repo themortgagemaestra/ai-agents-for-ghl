@@ -25,6 +25,20 @@ Modeled on a real "chief of staff" morning-brief demo from Amber McCue's AI Clon
 
 ## Entries
 
+### 2026-09-03
+
+**Gloria — Morning**
+- **First, before anything else:** text Adriana to follow up on how her closing went (was 10:30am Eastern / 8:30am Mountain today — do this the moment you're reading this).
+- One Big Thing: **Push the GHL/pipeline sync forward.** Checked again this morning — still no GoHighLevel or Arrive connector in this environment, so nothing's actually synced yet. Today's move: either get a connector set up, or sit down with the real pipeline Google Doc so there's a real plan for getting it and GHL in agreement once the access exists. This is still the #1 thing you named, and it's the thing everything else downstream depends on.
+- On deck (after the Big Thing):
+  1. Prep the next round of Meta ads with Callie and Mafe — scripts written, video recorded, everything ready to launch.
+  2. Testing Meg (marketing strategist) is still on the table if there's time.
+  3. Georgia/Texas licensing research stays parked until tomorrow, Friday 9/4 — not today.
+- Gratitude reminder: sent (Jess's own physical journal — not captured here).
+- Social spark: rates just hit fresh 2026 highs — good moment for a quick post on what buyers can actually control when rates are high (credit score, points, loan type), not just wait it out.
+- Market/loan update (9/3/26, most recent readings available this morning): 10-year Treasury yield ~4.78%, near its highest level since November 2023 (CNBC). Mortgage News Daily: 30-year fixed conventional ~6.91%, 30-year FHA ~6.45% — both still climbing.
+- Carried over from last night: the GHL/pipeline push and Meta ads prep above both came straight from last night's plan. The Adriana text was a one-time flag, not part of the regular brief — handled above.
+
 ### 2026-09-02
 
 **Gloria — Evening** *(delivered live, past 5pm Mountain — the automated routine doesn't fire until tomorrow; this was the first real day, so there's no automated morning entry above it either)*
