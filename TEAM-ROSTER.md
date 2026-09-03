@@ -11,7 +11,7 @@ Jess's own numbered list, roles as she described them. This is now the team, rep
 | 1 | **Meg** | Marketing strategist / CMO-in-a-box | Built & trained — `agents/meg-ai.md` |
 | 2 | **Nia** | Newsletter & email — absorbs `ncf-email-builder` | Identity confirmed — `agents/nia-newsletter.md` (interview pending) |
 | 3 | **Gloria** | Chief of staff — pipeline/GHL sync, business numbers, morning check-in + evening wrap-up | **Built & trained** — live, 2 daily cloud routines — `agents/gloria-assistant.md` |
-| 4 | **Mafe** (Maria Fernanda) | Meta ads specialist | Flagged urgent by Jess — build ASAP — `agents/mafe-meta-ads.md` |
+| 4 | **Mafe** (Maria Fernanda) | Meta ads specialist — Digital HELOC campaigns, FL/NJ/CO/PA | **Built & trained** — `agents/mafe-meta-ads.md` |
 | 5 | **Callie** | Core content — mortgage & real estate content, personality-first | Stub — `agents/callie-core-content.md` |
 | 6 | **Linda** | Landing page builder, fully GHL-integrated | Stub — `agents/linda-landing-page-builder.md` |
 | 7 | **Wanda** | The Workflow Queen — GHL workflows & drip campaigns | Stub — `agents/wanda-workflow-queen.md` |
@@ -89,5 +89,5 @@ Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder)
 
 1. Roster planning — done, this doc.
 2. ~~Gloria~~ — **done, fully trained 9/2/26.** Reprioritized to #1 (over Mafe) on Jess's call — "Gloria could run the business if I wasn't there." Same depth as Meg.
-3. **Mafe — next.** Flagged urgent by Jess from the start; her turn now that Gloria's finished.
-4. Everyone else (Carrie, Callie, Linda, Wanda, Gia, Nia's full interview) — order still open.
+3. ~~Mafe~~ — **done, fully trained 9/2/26.** Flagged urgent by Jess from the start.
+4. **Next up: order still open.** Everyone else (Carrie, Callie, Linda, Wanda, Gia, Nia's full interview, plus the newly-raised video-editing role) — Jess's call.
