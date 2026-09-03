@@ -90,5 +90,9 @@ Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder)
 1. Roster planning — done, this doc.
 2. ~~Gloria~~ — **done, fully trained 9/2/26.** Reprioritized to #1 (over Mafe) on Jess's call — "Gloria could run the business if I wasn't there." Same depth as Meg.
 3. ~~Mafe~~ — **done, fully trained 9/2/26.** Flagged urgent by Jess from the start.
-4. **Next session starts here (added end of day 9/2/26): test the 3 built agents first.** Jess wants to actually use Meg, Gloria, and Mafe before building anyone else — find gaps/hiccups now, while there are only 3 to check, rather than after building out the rest on the same unverified pattern.
-5. **Then continue building.** Order still open: Carrie, Callie (now confirmed as the ad/Reels script-writing partner, not just idea generation), Linda, Wanda, Gia, Nia's full interview, plus the newly-raised video-editing role — Jess's call.
+4. **Next session starts here (refined late 9/2/26). Priority for 9/3, in order:**
+   1. **GHL ↔ pipeline-doc sync with Gloria — "more important than anything else."** Checked the night before: not connected — no GoHighLevel connector exists in this environment yet (confirmed via registry search, 9/2/26). Real blocker, not a settings toggle. Jess wants to show Gloria the actual running Google Doc and make real progress toward the two staying synchronous.
+   2. **Meta ads prep with Callie + Mafe** — write/finalize scripts, record any additional video needed (one good one already exists), get everything organized and ready to launch the next round of Digital HELOC ads.
+   3. Testing Meg is still worth doing, just no longer positioned as the literal first task.
+5. **Then continue building.** Order still open: Carrie, Callie's full interview, Linda, Wanda, Gia, Nia's full interview, plus the newly-raised video-editing role — Jess's call.
+6. **Georgia/Texas licensing research — scheduled for Friday, September 4, 2026.** Explicitly not part of 9/3.

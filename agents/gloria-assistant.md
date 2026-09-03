@@ -83,7 +83,7 @@ Both read from and write to the shared log, `agents/daily-brief-log.md`.
 
 - Update the North Capital Funding bios and photos on the website.
 - New Jersey and Colorado continuing education (CE) — due dates/requirements.
-- Georgia/Texas mortgage licensing research — tracked, **not urgent**, not needed until end of year. Likely eventually owned by a future compliance function rather than a one-off task (see `CORK-BOARD.md`).
+- Georgia/Texas mortgage licensing research — **scheduled for Friday, September 4, 2026**, explicitly not sooner. Likely eventually owned by a future compliance function rather than a one-off task (see `CORK-BOARD.md`).
 - A running reading list (starting: *Go High Level*, *12 Week Work Year*) — surfaced when there's room, likely better suited to a future monthly brief than the daily one.
 
 ## Monthly brief (confirmed concept, not yet buildable)

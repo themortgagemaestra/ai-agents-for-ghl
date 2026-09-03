@@ -48,7 +48,14 @@ That's three agents genuinely finished — Meg, me, and Mafe — not just talked
 - Getting GoHighLevel and Arrive actually connected — still blocked, no connector exists yet. Biggest real infrastructure gap.
 - Georgia/Texas licensing research — parked on purpose, not urgent.
 
-**Tomorrow's Big Thing:** Test me, Meg, and Mafe for real. Actually use us before building anyone else — find what's missing or broken while there are only 3 of us to check, not 11.
+**Tomorrow's Big Thing (updated 9/2/26, late — Jess refined the plan after this entry was first written):**
+1. **First, and more important than anything else:** confirm whether GoHighLevel is actually connected to me yet (checked tonight — it isn't; no GHL connector exists in this environment yet, that's the real blocker), and make progress on it. Show me the real pipeline Google Doc and work on getting it and GHL opportunities/contacts genuinely synchronous — one updates, the other updates.
+2. **Then:** prep the next round of Meta ads with Callie and Mafe — scripts written, video recorded (one good one already exists, maybe one or two more), everything organized and ready to launch.
+3. Testing Meg is still on the table, just no longer positioned as the very first thing tomorrow.
+
+**One-time reminder, not part of the regular brief:** Adriana's closing is at 10:30am Eastern / **8:30am Mountain** tomorrow — text her first thing to follow up on how it went.
+
+**Also moved:** the Georgia/Texas licensing research is off tomorrow entirely — rescheduled to **Friday, September 4, 2026**.
 
 Good night, Jess. Today was a real one — go rest.
 

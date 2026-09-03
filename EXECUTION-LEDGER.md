@@ -8,6 +8,16 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ## Log
 
+### 2026-09-02 (cont'd, part 16) — Tomorrow's plan locked, final wrap for the day
+- Jess sent last-minute updates right before actually logging off. Locked in:
+  1. **Georgia/Texas licensing research moves to Friday, September 4, 2026** — explicitly off Thursday 9/3. Updated `CORK-BOARD.md` and `agents/gloria-assistant.md`.
+  2. **9/3 priority order, refined:** (1) the GHL ↔ pipeline-doc sync with Gloria — "more important than anything else," (2) Meta ads prep with Callie and Mafe (scripts, video, ready to launch), (3) testing Meg still on the table, no longer the literal first task. Updated `TEAM-ROSTER.md`'s build order.
+  3. **Answered directly, not deferred:** Jess asked whether GHL and Gloria are already connected. Searched the MCP connector registry live (`GoHighLevel`, `HighLevel`, `CRM`, `Zapier`) — zero results. Confirmed: not connected, no connector exists in this environment yet. This is the real infrastructure blocker for tomorrow's #1 priority, not a missed setting.
+  4. **A real one-time reminder, not a permanent scope change:** Adriana's closing is 10:30am Eastern / 8:30am Mountain tomorrow — Jess wants a text follow-up first thing. Written into tonight's evening entry in `agents/daily-brief-log.md` so tomorrow's automated 8:30am Gloria run surfaces it as carryover. Flagged to Jess directly that since tomorrow is the very first live day of the automated routines, a personal backup reminder might be wise for something this time-sensitive.
+- Updated tonight's evening brief entry in `agents/daily-brief-log.md` to reflect all of the above rather than leaving the earlier (now-superseded) "test the 3 agents" framing as the only stated plan.
+- **Not done yet:** everything in the refined 9/3 plan above — this is the actual starting point for next session.
+
+
 ### 2026-09-02 (cont'd, part 15) — Callie's scope confirmed, first real evening brief, session wrap-up
 - Jess asked for a content-creator agent to write ad/Reels scripts with her, then hand finished scripts to Mafe. That's already **Callie** — confirmed her scope now explicitly includes script development (not just idea generation), with the handoff pipeline: Jess + Callie write the script → Mafe programs/traffics it. Cross-referenced in `agents/callie-core-content.md` and `agents/mafe-meta-ads.md`, and resolved the open question in `CORK-BOARD.md` (video editing stays a separate, unbuilt future role — Callie writes, doesn't edit).
 - Delivered Gloria's first real evening brief, live in chat, past the scheduled 5pm run (her automated routines don't fire until tomorrow — today was the first real day). Written into `agents/daily-brief-log.md` as the actual first entry: today's real accomplishments, what's still open, and tomorrow's Big Thing.
