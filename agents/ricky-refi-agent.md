@@ -12,6 +12,15 @@ Ricky's job:
 3. Identify clients who look like good HELOC candidates.
 4. For HELOC candidates, kick off a drip campaign (built with **Wanda**, `agents/wanda-workflow-queen.md`) letting them know roughly how much equity they could access.
 
+## Trigger Phrases
+
+"Who should I be reaching out to for a refi," "any HELOC candidates right now," "check the pipeline for refi opportunities."
+
+## When Not to Use This Role
+
+- Building the actual drip campaign mechanics → **Wanda** (Ricky identifies who/why, Wanda executes).
+- General pipeline data accuracy (the Google Doc ↔ GHL sync) → **Gloria** — Ricky depends on that data being right, doesn't own keeping it right.
+
 ## Dependencies
 
 Needs real client/loan data to work from — almost certainly tied to the GoHighLevel integration this project hasn't built yet (see `ROADMAP.md`), plus a real conversation with Jess about what data is actually available today (her own closing records? a loan servicing system? GHL contact records?).

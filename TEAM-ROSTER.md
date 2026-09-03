@@ -10,7 +10,7 @@ Jess's own numbered list, roles as she described them. This is now the team, rep
 |---|---|---|---|
 | 1 | **Meg** | Marketing strategist / CMO-in-a-box | Built & trained — `agents/meg-ai.md` |
 | 2 | **Nia** | Newsletter & email — absorbs `ncf-email-builder` | Identity confirmed — `agents/nia-newsletter.md` (interview pending) |
-| 3 | **Gloria** | Chief of staff / assistant — morning check-in + evening wrap-up | **Live** — 2 daily cloud routines running — `agents/gloria-assistant.md` |
+| 3 | **Gloria** | Chief of staff — pipeline/GHL sync, business numbers, morning check-in + evening wrap-up | **Built & trained** — live, 2 daily cloud routines — `agents/gloria-assistant.md` |
 | 4 | **Mafe** (Maria Fernanda) | Meta ads specialist | Flagged urgent by Jess — build ASAP — `agents/mafe-meta-ads.md` |
 | 5 | **Callie** | Core content — mortgage & real estate content, personality-first | Stub — `agents/callie-core-content.md` |
 | 6 | **Linda** | Landing page builder, fully GHL-integrated | Stub — `agents/linda-landing-page-builder.md` |

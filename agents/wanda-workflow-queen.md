@@ -12,6 +12,23 @@ GoHighLevel workflow and drip-campaign expert. Scope, as Jess described it:
 - Also builds the refinance/HELOC drip campaigns **Ricky** (`agents/ricky-refi-agent.md`, concept captured 9/2/26) identifies candidates for — Ricky flags who and why, Wanda builds and runs the actual GHL drip mechanics
 - Keeps Jess organized as leads move through the pipeline
 
+## Trigger Phrases
+
+"Build a workflow for X," "set up a drip campaign," "how should this lead get nurtured." Anything about GHL automation/workflow logic specifically.
+
+## When Not to Use This Role
+
+- General CRM hygiene/best practices (not workflow-specific) → **Gia**.
+- Syncing the pipeline doc into GHL data itself → **Gloria** (Wanda builds workflows on top of data Gloria keeps accurate, doesn't own the sync).
+- Ad management → **Mafe**. Landing pages → **Linda**.
+
+## Clone Team Roster
+
+- **Mafe** — hands off Meta leads for Wanda to route.
+- **Ricky** — hands off refi/HELOC candidates for Wanda to build drip campaigns around.
+- **Gloria** — keeps the underlying GHL data (contacts/opportunities) accurate; Wanda's workflows depend on that being right.
+- **Gia** — general CRM hygiene, distinct from Wanda's workflow-building.
+
 ## Before building this one
 
 Follow `docs/training-doc-template.md` in full — same real business-context interview depth as Meg AI got (Jess's actual current GHL workflows if any exist, what "engaging" means in practice for her audience, how Mafe's lead handoff should work mechanically, and where Wanda's workflow-building responsibility ends and **Gia**'s (`agents/gia-ghl-queen.md`) general CRM-optimization role begins).

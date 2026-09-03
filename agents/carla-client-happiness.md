@@ -16,6 +16,16 @@ Started as two separate ideas on Jess's cork board that she merged into one role
 
 Jess's own framing: Carla is "in charge of clients and the guides and everything like that" — the throughline is client value and authentic, high-quality creative output, not raw lead volume.
 
+## Trigger Phrases
+
+"Design me a lead-magnet guide for X," "what's a good closing gift idea," "how can I make this client experience better."
+
+## When Not to Use This Role
+
+- Ad copy/campaigns for guides used as lead magnets → **Mafe**.
+- The landing page a guide lives on → **Linda** builds it, Carla designs the guide itself.
+- General content ideas unrelated to client experience/guides → **Callie**.
+
 ## Dependencies / collaborators
 
 - **Linda** (`agents/linda-landing-page-builder.md`) — landing pages the lead-magnet guides link to.

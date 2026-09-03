@@ -6,13 +6,24 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ---
 
+## Log
+
+### 2026-09-02 (cont'd, part 13) — Gloria fully trained; autonomous pass on the rest of the roster
+- Jess answered the real interview in full while stepping away for an hour (a bike ride), with explicit instructions: don't fabricate anything, capture exactly what she said, and use the hour to get as far as legitimately possible on the rest of the roster.
+- **Gloria's real business context, now confirmed:** her team tried running pipeline meetings directly in GHL and it didn't work, so they keep a long-running Google Doc as the real source of truth (current loans, pre-approvals, hot/cold/HELOC/refi leads, referral notes, status). Jess: "I rarely go into GoHighLevel... because that's annoying." **Gloria's #1 job** — her words, "that is the main thing... number one" — is bridging that Google Doc into GHL (opportunities, contacts, tags) so the two stop being out of sync, plus eventually bridging in **Arrive** (holds active applications/loans in process). Numbers she stays fluent in: pipeline count, closed volume, revenue, lead count/source, applications. Cadence: Monday pipeline meetings with Jess, her mom, and Bobby.
+- **Corrected the "project manager" framing from the prior session:** Jess clarified Gloria does NOT actively track other agents' work — "not really a project manager... just more about organizing my own tasks and communication." Any awareness of other agents (e.g., seeing Mafe's leads land in GHL) is incidental, not active oversight.
+- **Real emotional stakes, not just mechanics:** Jess described being in a slump, feeling unproductive — Gloria getting her genuinely organized is what's meant to pull her out of it, not just a nice-to-have tone.
+- **No access constraints** — Jess explicitly authorized full access (GHL, Drive, Arrive, even paid tools like Zapier if needed) once there's a way to grant it. Re-enabled **Google Drive** on both of Gloria's live cloud routines (was removed for least-privilege reasons in the prior session — now genuinely needed for the pipeline doc). GHL and Arrive integration remain blocked: no connector exists in this environment yet, same standing blocker noted throughout `ROADMAP.md`.
+- **Found and fixed a real scope collision:** the Monday-pipeline-to-GHL task had been assigned to both Gloria (new) and Gia's original stub (`agents/gia-ghl-queen.md`, from the 9/2/26 GHL-queen interview). Resolved in Gloria's favor — it's core to her role; Gia's scope narrowed to general CRM hygiene/best-practices, no longer the pipeline sync.
+- Rewrote `agents/gloria-assistant.md` as a complete training doc, same structure/depth as `agents/meg-ai.md` (all `docs/training-doc-template.md` sections). Gloria is now **fully trained**, not just live.
+- **Autonomous pass on the remaining 8 stubs** (Mafe, Callie, Linda, Wanda, Gia, Carrie, Ricky, Carla, Nia — 9 total) while Jess was away: added Trigger Phrases, When Not to Use, and Clone Team Roster cross-references to each, grounded only in facts already established across this project. Did **not** fabricate Business Context or Confirmed Goals/Budget/Authority for any of them — those sections are explicitly marked "OPEN — needs the real interview" wherever Jess hasn't actually supplied the facts. None of the 9 are "built" — they're meaningfully further along than bare stubs, honestly labeled as such.
+- **Not done yet:** the real interviews for all 9 remaining agents (Mafe is next, per standing priority); GHL/Arrive connector research once one becomes available; updating `The Clone Team` artifact to reflect Gloria's new fully-trained status.
+
 ### 2026-09-02 (cont'd, part 12) — Gloria reprioritized to #1, real interview starting
 - Jess overrode the Mafe-next recommendation: Gloria goes first, fully finished, before anything else. Standing process confirmed: build one agent at a time, completely, no gaps, before moving to the next.
 - Jess elevated Gloria's role significantly beyond the daily AM/PM brief: "Gloria could run the business if I wasn't there" — she should know the business's numbers and overall status, and have a real project-manager function coordinating efficient communication across the whole team. This is why she jumped ahead of Mafe despite Mafe's urgency flag. Captured in `agents/gloria-assistant.md`.
 - Updated `TEAM-ROSTER.md`'s build order to reflect Gloria #1 / Mafe #2 and the one-at-a-time-fully-finished process.
 - **Not done yet:** the actual business-context interview — questions asked this turn, answers pending.
-
-## Log
 
 ### 2026-09-02 (cont'd, part 11) — Corrected course: licensing research isn't urgent, roster needed a visual
 - Jess pushed back hard on the previous session's recommendation to do the Georgia/Texas licensing research next: not urgent (not needed until end of year), and it's actually a future compliance function's job, not something to do right now. Corrected `agents/gloria-assistant.md` and `CORK-BOARD.md` to reflect that — deferred and de-emphasized, no longer framed as "the next action."

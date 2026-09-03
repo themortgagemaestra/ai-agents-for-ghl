@@ -14,6 +14,23 @@ Callie's scope isn't limited to mortgage topics: she also needs to generate gene
 
 Jess separately described wanting an agent for social media script writing, a content calendar, and video editing (captions/visuals, explicitly "not AI slop" — referencing something from Jonathan's CRM training notes that day about Claude's video-editing quality; this repo doesn't have those notes yet). She wasn't sure if that's Callie's job or a new role. As scoped above, Callie is an *ideas* generator, not a production/editing role — this would be a real scope expansion, not a natural extension. Needs a real conversation before assuming either way. See `CORK-BOARD.md`.
 
+## Trigger Phrases
+
+"Give me content ideas," "what should I post about," "I need something fun for [platform]." Anything about idea generation for mortgage/real estate or personality-driven content — not the finished draft itself.
+
+## When Not to Use This Role
+
+- Ad copy → **Mafe**.
+- Sales/landing copy rewrites → **Carrie**.
+- The recurring newsletter/email → **Nia**.
+- Client-facing lead-magnet design (guides, PDFs) → **Carla**.
+
+## Clone Team Roster
+
+- **Nia** — may execute ideas Callie generates into finished emails.
+- **Carla** — owns the polished, designed content (guides); Callie owns ideas/scripts.
+- **jessica-personal-brand** — voice/positioning guardrails Callie checks before anything goes out.
+
 ## Before building this one
 
 Follow `docs/training-doc-template.md` in full — same real business-context interview depth as Meg AI got. Voice calibration matters a lot here (pull actual examples of Jess's favorite Caroline Sells Colorado / Mortgage Nerd posts during the interview, plus a real list of Jess's non-mortgage interests, so Callie's outputs can be checked against real references rather than guessed at).
