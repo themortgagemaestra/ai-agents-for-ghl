@@ -22,6 +22,17 @@ Naming resolved 9/2/26: #9 was briefly dropped, then confirmed back as Carrie.
 
 **#3 consolidated 9/2/26:** originally built as two separate agents — Bridgette (morning) and Grecia (evening, briefly named "Grace") — then merged into one, **Gloria**, at Jess's request: she wanted one consistent voice across the whole day, not a handoff between two strangers. Team is 9 members, not 10.
 
+## Captured but not yet build-queued
+
+From Jess's cork-board brain dump (9/2/26) — real, named, reasonably scoped, but not yet slotted into build priority order the way #1–9 above are. Full context in `CORK-BOARD.md`.
+
+| Name | Role | Status |
+|---|---|---|
+| **Ricky** | The Refi Agent — tracks client equity/loan position across the board, flags refinance timing, kicks off HELOC drip campaigns with Wanda | Concept captured — `agents/ricky-refi-agent.md` |
+| **Carla** | Client happiness + artistic design — client retention/experience ideas, plus beautiful lead-magnet guides (e.g. "Moving to Denver") | Concept captured — `agents/carla-client-happiness.md` |
+
+**Open question:** Jess described wanting social-media script writing, a content calendar, and video editing — unclear whether that's Callie's job (currently scoped as content *ideas*, not production) or a new role. Not resolved — see `CORK-BOARD.md`.
+
 ---
 
 ## Role detail (what's confirmed so far, beyond the one-liner)
