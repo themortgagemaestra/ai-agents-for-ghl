@@ -18,7 +18,7 @@ This file is the digital version of that board. **Nothing here is being built ri
 
 **A dedicated video-editing agent — not yet named.** Raised during Mafe's interview (9/2/26), directed at Gloria to note for later: "we need another AI agent to edit videos for Instagram Reels, for Meta ads, and then eventually for YouTube, both shorts and long form, and content in general." Reference point: Jonathan (Jess's CRM coach) apparently uses Claude for exactly this on his own landing page and videos — same source as the earlier, still-unresolved note about Claude's video-editing quality (see below). Jess: "that can just be something we work on later" — explicitly not urgent.
 
-**Open question — Callie's scope, updated.** Jess described wanting an agent for social media script writing, a content calendar, and video editing (captions/visuals, "not AI slop" — referencing Jonathan's CRM training notes, which this repo doesn't have). Originally unclear whether this was Callie's job or a new role. Given the video-editing idea above is now described as its own distinct future agent, **script writing/content calendar likely stays with Callie, and video editing likely belongs to the new (unbuilt) video-editing role** — a reasonable read, not yet confirmed with Jess.
+**Resolved — Callie's scope.** Confirmed during Mafe's interview (9/2/26): Callie is the content-creator agent Jess develops ad/Reels scripts with. Pipeline is explicit — Jess + Callie write the script, Mafe programs and runs it. Video *editing* stays the separate, not-yet-built future role above; Callie writes, she doesn't edit.
 
 ### Ideas → Gloria's job
 

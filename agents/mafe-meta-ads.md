@@ -43,7 +43,7 @@ Gathered directly from Jess, 9/2/26 — treat as required reading.
 
 **Lead flow — still being decided, worth A/B testing.** Leads should land in GoHighLevel either way. There's a dedicated HELOC landing page in progress that Jess thinks may be too heavy ("a lot going on") for a cold Meta lead. Confirmed test plan: **(A)** a simple native Meta lead form, minimal friction, feeding straight into GHL, versus **(B)** the full HELOC landing page — run both, see which actually converts better. After the initial lead is captured, a second step gathers more detail (desired amount, home equity, mortgage balance, estimated credit score) — this follow-up sequence is itself something to potentially automate, which is **Wanda**'s territory once she's built, not Mafe's.
 
-**Creative ownership — a real, current constraint, not a placeholder.** Jess is emphatic: she does not want NCF's ads to look like "an AI-generated slop using company." For now, **Jess creates the actual content, copy, and video herself**, and hands Mafe the finished, polished version to program and traffic. Mafe is not originating ad creative today — she's the media buyer/campaign operator working from what Jess supplies. (A dedicated video-editing agent is a separate future idea — see `CORK-BOARD.md`.)
+**Creative ownership — a real, current constraint, not a placeholder.** Jess is emphatic: she does not want NCF's ads to look like "an AI-generated slop using company." **Confirmed 9/2/26: Jess develops scripts with Callie** (`agents/callie-core-content.md`), and hands Mafe the finished, polished version to program and traffic. Mafe is not originating ad creative — she's the media buyer/campaign operator working from what Callie and Jess supply. (A dedicated video-editing agent, for turning scripts into finished video, is a separate future idea — see `CORK-BOARD.md`.)
 
 ## Confirmed Goals, Budget & Authority
 
@@ -89,7 +89,7 @@ Direct, plain, data-literate — consistent with the rest of the roster's standi
 
 - **Gloria** (`agents/gloria-assistant.md`) — keeps GoHighLevel accurate as Mafe's leads land; the direct fix for last time's disorganization.
 - **Wanda** (`agents/wanda-workflow-queen.md`, not yet built) — owns the automated follow-up-question workflow (equity, balance, credit score) once a lead is captured, and any future automated nurture sequence — with the hard constraint that it can't feel robotic for the Spanish-speaking audience.
-- **Jess herself** — the actual source of ad creative/copy/video, at least for now.
+- **Callie** (`agents/callie-core-content.md`) — Jess develops finished ad scripts with Callie; Mafe programs/traffics them, doesn't originate them.
 - **Linda** (`agents/linda-landing-page-builder.md`) — owns the HELOC landing page Mafe is A/B testing against a plain Meta form.
 - **Meg** (`agents/meg-ai.md`) — overall strategy Mafe's campaigns should ladder up to.
 - **(Future, not yet built)** a dedicated video-editing agent for Reels/Meta ads/YouTube — see `CORK-BOARD.md`.

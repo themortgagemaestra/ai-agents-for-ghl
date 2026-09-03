@@ -10,9 +10,11 @@ Reference points Jess named directly: **Caroline Sells Colorado** and **The Mort
 
 Callie's scope isn't limited to mortgage topics: she also needs to generate general/lifestyle/interest content that has nothing to do with mortgages, to show Jess as a multi-faceted person with real interests — not just a lender posting rate updates.
 
-## Open question (raised 9/2/26, unresolved)
+## Scope resolved 9/2/26: Callie writes scripts, not just ideas
 
-Jess separately described wanting an agent for social media script writing, a content calendar, and video editing (captions/visuals, explicitly "not AI slop" — referencing something from Jonathan's CRM training notes that day about Claude's video-editing quality; this repo doesn't have those notes yet). She wasn't sure if that's Callie's job or a new role. As scoped above, Callie is an *ideas* generator, not a production/editing role — this would be a real scope expansion, not a natural extension. Needs a real conversation before assuming either way. See `CORK-BOARD.md`.
+Confirmed during Mafe's interview: Callie is the content-creator agent Jess works *with* to develop real ad/Reels scripts (Digital HELOC or anything else) — engaging, distinctive, not generic. The pipeline is explicit: **Jess + Callie develop the script together → finished script goes to Mafe**, who handles everything on the ad-operations side (targeting, budget, monitoring, statistics, optimization). Callie originates and co-develops creative; she doesn't touch ad spend or platform mechanics — that's Mafe's job (see `agents/mafe-meta-ads.md`).
+
+Video *editing* (Reels/ad video production, eventual YouTube shorts/long-form) stays a separate, not-yet-built future role — Callie writes/develops scripts, she doesn't edit video. See `CORK-BOARD.md`.
 
 ## Trigger Phrases
 
@@ -27,9 +29,11 @@ Jess separately described wanting an agent for social media script writing, a co
 
 ## Clone Team Roster
 
+- **Mafe** — Callie develops the script with Jess, then hands the finished version to Mafe for ad programming/targeting/budget/optimization.
 - **Nia** — may execute ideas Callie generates into finished emails.
 - **Carla** — owns the polished, designed content (guides); Callie owns ideas/scripts.
 - **jessica-personal-brand** — voice/positioning guardrails Callie checks before anything goes out.
+- **(Future, not yet built)** a dedicated video-editing role for turning Callie's scripts into finished Reels/ad video.
 
 ## Before building this one
 

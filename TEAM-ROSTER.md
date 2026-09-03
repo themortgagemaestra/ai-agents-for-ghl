@@ -12,7 +12,7 @@ Jess's own numbered list, roles as she described them. This is now the team, rep
 | 2 | **Nia** | Newsletter & email — absorbs `ncf-email-builder` | Identity confirmed — `agents/nia-newsletter.md` (interview pending) |
 | 3 | **Gloria** | Chief of staff — pipeline/GHL sync, business numbers, morning check-in + evening wrap-up | **Built & trained** — live, 2 daily cloud routines — `agents/gloria-assistant.md` |
 | 4 | **Mafe** (Maria Fernanda) | Meta ads specialist — Digital HELOC campaigns, FL/NJ/CO/PA | **Built & trained** — `agents/mafe-meta-ads.md` |
-| 5 | **Callie** | Core content — mortgage & real estate content, personality-first | Stub — `agents/callie-core-content.md` |
+| 5 | **Callie** | Core content — content ideas + ad/Reels script development with Jess, hands finished scripts to Mafe | Stub — `agents/callie-core-content.md` |
 | 6 | **Linda** | Landing page builder, fully GHL-integrated | Stub — `agents/linda-landing-page-builder.md` |
 | 7 | **Wanda** | The Workflow Queen — GHL workflows & drip campaigns | Stub — `agents/wanda-workflow-queen.md` |
 | 8 | **Gia** | The GHL Queen — CRM management & optimization | Stub — `agents/gia-ghl-queen.md` |
@@ -90,4 +90,5 @@ Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder)
 1. Roster planning — done, this doc.
 2. ~~Gloria~~ — **done, fully trained 9/2/26.** Reprioritized to #1 (over Mafe) on Jess's call — "Gloria could run the business if I wasn't there." Same depth as Meg.
 3. ~~Mafe~~ — **done, fully trained 9/2/26.** Flagged urgent by Jess from the start.
-4. **Next up: order still open.** Everyone else (Carrie, Callie, Linda, Wanda, Gia, Nia's full interview, plus the newly-raised video-editing role) — Jess's call.
+4. **Next session starts here (added end of day 9/2/26): test the 3 built agents first.** Jess wants to actually use Meg, Gloria, and Mafe before building anyone else — find gaps/hiccups now, while there are only 3 to check, rather than after building out the rest on the same unverified pattern.
+5. **Then continue building.** Order still open: Carrie, Callie (now confirmed as the ad/Reels script-writing partner, not just idea generation), Linda, Wanda, Gia, Nia's full interview, plus the newly-raised video-editing role — Jess's call.

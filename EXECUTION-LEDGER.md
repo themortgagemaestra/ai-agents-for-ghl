@@ -8,6 +8,13 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ## Log
 
+### 2026-09-02 (cont'd, part 15) — Callie's scope confirmed, first real evening brief, session wrap-up
+- Jess asked for a content-creator agent to write ad/Reels scripts with her, then hand finished scripts to Mafe. That's already **Callie** — confirmed her scope now explicitly includes script development (not just idea generation), with the handoff pipeline: Jess + Callie write the script → Mafe programs/traffics it. Cross-referenced in `agents/callie-core-content.md` and `agents/mafe-meta-ads.md`, and resolved the open question in `CORK-BOARD.md` (video editing stays a separate, unbuilt future role — Callie writes, doesn't edit).
+- Delivered Gloria's first real evening brief, live in chat, past the scheduled 5pm run (her automated routines don't fire until tomorrow — today was the first real day). Written into `agents/daily-brief-log.md` as the actual first entry: today's real accomplishments, what's still open, and tomorrow's Big Thing.
+- **New process, confirmed for next session:** before building agents 5–11, actually test-drive the 3 finished agents (Meg, Gloria, Mafe) to find gaps or hiccups while there are only 3 to check. Added to `TEAM-ROSTER.md`'s build order as the explicit next step.
+- Session ending here for the day, per Jess (8:30pm Mountain, wrapping up). Tomorrow's plan, in her own words: test Meg/Gloria/Mafe first, then get agents 4 through 11 (now 5–11, since Mafe's done) fully built, potentially plus more.
+- **Not done yet:** everything listed in tonight's evening brief above — carries forward as tomorrow's starting point.
+
 ### 2026-09-02 (cont'd, part 14) — Mafe fully trained
 - Real business-context interview completed. NCF has run Meta ads before — best results came from the Digital HELOC product (fast/low-friction, genuinely distinctive, has a dedicated landing page nearly done). Spent ~$100/day at peak, closed ~3 deals over 3 months, lots of leads. What broke: no real automated follow-up (relied on Jess's mom manually calling), and GHL never got updated — leads became a mess. That's the exact gap Gloria's pipeline-sync job now closes; Mafe and Gloria are explicitly meant to work side by side going forward.
 - Past campaign specifics: Florida, Spanish-speaking homeowners, video ad → lead form → manual phone follow-up. Real insight: that audience disengages from anything that reads as automated/AI-generated — outreach has to feel human. This is now a hard constraint on Wanda's future follow-up-workflow design, not just a Mafe note.
