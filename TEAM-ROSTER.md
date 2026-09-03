@@ -12,7 +12,7 @@ Jess's own numbered list, roles as she described them. This is now the team, rep
 | 2 | **Nia** | Newsletter & email — absorbs `ncf-email-builder` | Identity confirmed — `agents/nia-newsletter.md` (interview pending) |
 | 3 | **Gloria** | Chief of staff — pipeline/GHL sync, business numbers, morning check-in + evening wrap-up | **Built & trained** — live, 2 daily cloud routines — `agents/gloria-assistant.md` |
 | 4 | **Mafe** (Maria Fernanda) | Meta ads specialist — Digital HELOC campaigns, FL/NJ/CO/PA | **Built & trained** — `agents/mafe-meta-ads.md` |
-| 5 | **Carlos** | Core content — content ideas + ad/Reels script development with Jess, hands finished scripts to Mafe | Stub — `agents/carlos-core-content.md` |
+| 5 | **Carlos** | NCF's social media manager (IG/FB/LinkedIn) + ad/Reels script development with Jess, hands finished scripts to Mafe | **Built & trained** — `agents/carlos-core-content.md` |
 | 6 | **Linda** | Landing page builder, fully GHL-integrated | Stub — `agents/linda-landing-page-builder.md` |
 | 7 | **Wanda** | The Workflow Queen — GHL workflows & drip campaigns | Stub — `agents/wanda-workflow-queen.md` |
 | 8 | **Gia** | The GHL Queen — CRM management & optimization | Stub — `agents/gia-ghl-queen.md` |
@@ -31,7 +31,7 @@ From Jess's cork-board brain dump (9/2/26) — real, named, reasonably scoped, b
 | **Ricky** | The Refi Agent — tracks client equity/loan position across the board, flags refinance timing, kicks off HELOC drip campaigns with Wanda | Concept captured — `agents/ricky-refi-agent.md` |
 | **Carla** | Client happiness + artistic design — client retention/experience ideas, plus beautiful lead-magnet guides (e.g. "Moving to Denver") | Concept captured — `agents/carla-client-happiness.md` |
 
-**Open question:** Jess described wanting social-media script writing, a content calendar, and video editing — unclear whether that's Carlos's job (currently scoped as content *ideas*, not production) or a new role. Not resolved — see `CORK-BOARD.md`.
+**Resolved 9/3/26:** this was Carlos's real interview all along — social-media script writing, content calendar, and video/visual production are now all explicitly his scope (see `agents/carlos-core-content.md`). The separate future video-editing role idea is resolved into Carlos, not spun off on its own.
 
 ---
 
@@ -41,7 +41,7 @@ From Jess's cork-board brain dump (9/2/26) — real, named, reasonably scoped, b
 
 **Mafe — Meta Ads.** Full lifecycle expert: budgets, A/B testing, ad copy, every component of a Meta ad, and funneling those leads into GoHighLevel start to finish. Jess called this one out as the most urgent to build.
 
-**Carlos — Core Content.** Mortgage and real estate content ideas with real personality — explicitly not generic, not AI-sounding. Reference points Jess named: Caroline Sells Colorado and The Mortgage Nerd on Instagram (real-talk, non-"mortgagey" mortgage content). Also needs to generate content that isn't about mortgages at all — general/lifestyle/interest content that shows Jess as a multi-faceted person, not just a lender.
+**Carlos — fully trained 9/3/26, see `agents/carlos-core-content.md` for the complete doc.** Short version: NCF's actual social media manager — Instagram, Facebook, and LinkedIn, 3-4 posts/week, finished output (caption + hashtags + real visual/video direction), not just ideas. Four content pillars: first-time homebuyers, Digital HELOC spotlights, client wins (starting from the unused Google-review backlog), and fully-Spanish community-facing posts. Default NCF team voice; becomes a Mortgage Maestra "collaboration" post only when Jess is on camera or content is hyper-local. Voice references: Caroline Sells Colorado, Connor D. Cole (creative risk-taking), The Mortgage Nerd (helpful, not her cheesy branding).
 
 **Linda — Landing Pages.** Full GHL landing pages, not just copy — fully integrated with Jess's social media, email, and texting, not standalone pages.
 
@@ -95,5 +95,6 @@ Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder)
    1. **GHL ↔ pipeline-doc sync with Gloria — "more important than anything else."** Checked the night before: not connected — no GoHighLevel connector exists in this environment yet (confirmed via registry search, 9/2/26). Real blocker, not a settings toggle. Jess wants to show Gloria the actual running Google Doc and make real progress toward the two staying synchronous.
    2. **Meta ads prep with Carlos + Mafe** — write/finalize scripts, record any additional video needed (one good one already exists), get everything organized and ready to launch the next round of Digital HELOC ads.
    3. Testing Meg is still worth doing, just no longer positioned as the literal first task.
-5. **Then continue building.** Order still open: Carrie, Carlos's full interview, Linda, Wanda, Gia, Nia's full interview, plus the newly-raised video-editing role — Jess's call.
-6. **Georgia/Texas licensing research — scheduled for Friday, September 4, 2026.** Explicitly not part of 9/3.
+5. ~~Carlos~~ — **done, fully trained 9/3/26.** NCF's social media manager across IG/FB/LinkedIn — see `agents/carlos-core-content.md`.
+6. **Then continue building.** Order still open: Carrie, Linda, Wanda, Gia, Nia's full interview — Jess's call.
+7. **Georgia/Texas licensing research — scheduled for Friday, September 4, 2026.** Explicitly not part of 9/3.
