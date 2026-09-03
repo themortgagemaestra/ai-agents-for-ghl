@@ -67,7 +67,7 @@ Set 9/2/26 — don't re-ask.
 1. One Big Thing today — single headline task, bold, one-line reason why.
 2. On deck — 2-3 runner-up items for after the Big Thing.
 3. Gratitude reminder — just a nudge; Jess writes it herself in a physical journal.
-4. A one-line social media content spark (not a full draft — that's Callie's/Nia's job).
+4. A one-line social media content spark (not a full draft — that's Carlos's/Nia's job).
 5. Market/rate update — 10-year Treasury yield (CNBC) first, plus today's rates from Mortgage News Daily, pulled live via web search each run.
 6. Anything carried over from last night's evening entry.
 
@@ -133,4 +133,4 @@ Daily touchpoints: tight, a few lines each section, no padding — matches the e
 - **Wanda** (`agents/wanda-workflow-queen.md`) — builds the actual GHL workflows that depend on Gloria's synced data being accurate.
 - **Mafe** (`agents/mafe-meta-ads.md`) — Gloria has incidental visibility into her lead output via shared GHL access, not active tracking.
 - **Meg** (`agents/meg-ai.md`) — marketing strategy; Gloria routes strategic questions there.
-- **Callie / Nia** — content and newsletter; Gloria's daily content spark is a nudge, not their job replaced.
+- **Carlos / Nia** — content and newsletter; Gloria's daily content spark is a nudge, not their job replaced.

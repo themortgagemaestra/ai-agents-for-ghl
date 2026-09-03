@@ -18,7 +18,9 @@ This file is the digital version of that board. **Nothing here is being built ri
 
 **A dedicated video-editing agent — not yet named.** Raised during Mafe's interview (9/2/26), directed at Gloria to note for later: "we need another AI agent to edit videos for Instagram Reels, for Meta ads, and then eventually for YouTube, both shorts and long form, and content in general." Reference point: Jonathan (Jess's CRM coach) apparently uses Claude for exactly this on his own landing page and videos — same source as the earlier, still-unresolved note about Claude's video-editing quality (see below). Jess: "that can just be something we work on later" — explicitly not urgent.
 
-**Resolved — Callie's scope.** Confirmed during Mafe's interview (9/2/26): Callie is the content-creator agent Jess develops ad/Reels scripts with. Pipeline is explicit — Jess + Callie write the script, Mafe programs and runs it. Video *editing* stays the separate, not-yet-built future role above; Callie writes, she doesn't edit.
+**Resolved — Carlos's scope.** Confirmed during Mafe's interview (9/2/26): Carlos is the content-creator agent Jess develops ad/Reels scripts with. Pipeline is explicit — Jess + Carlos write the script, Mafe programs and runs it. Video *editing* stays the separate, not-yet-built future role above; Carlos writes, he doesn't edit.
+
+**Renamed 9/3/26: Callie → Carlos.** Jess's own words: these are her AI agents, not her clones, and they can have "boy names" too — no rule that content/support roles default female. Same scope, new name.
 
 ### Ideas → Gloria's job
 
@@ -58,7 +60,7 @@ From the same "how I want to handle closings/clients" note:
 
 ### Content idea
 
-- "5 Scripts for Overcoming Objections of ___" — e.g., objections to buying when rates are high, objections that a new build isn't always the better choice, etc. A content template/series idea for whoever ends up owning social scripts (see the open Callie question above).
+- "5 Scripts for Overcoming Objections of ___" — e.g., objections to buying when rates are high, objections that a new build isn't always the better choice, etc. A content template/series idea for whoever ends up owning social scripts (see the open Carlos question above).
 
 ---
 

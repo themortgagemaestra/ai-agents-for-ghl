@@ -12,7 +12,7 @@ Training standard: each team member should be thoroughly trained before it's con
 
 See `TEAM-ROSTER.md` — the current source of truth for the full team: every name, role, and build status. This section used to duplicate that list; now it just points there so the two can't drift out of sync.
 
-Quick summary as of 9/2/26: 11 team members confirmed (Meg, Nia, Gloria, Mafe, Callie, Linda, Wanda, Gia, Carrie, Ricky, Carla), plus a not-yet-named future video-editing role. **Meg, Gloria, and Mafe are fully built and trained.** Gloria's core job is bridging the team's pipeline Google Doc into GoHighLevel (GHL/Arrive connectors pending — not yet available in this environment). Mafe runs Meta ads for the Digital HELOC product across NCF's four licensed states (FL/NJ/CO/PA), working from creative Jess supplies, with Jess reviewing campaigns before launch. Standing process: one agent built completely before moving to the next.
+Quick summary as of 9/2/26: 11 team members confirmed (Meg, Nia, Gloria, Mafe, Carlos, Linda, Wanda, Gia, Carrie, Ricky, Carla), plus a not-yet-named future video-editing role. **Meg, Gloria, and Mafe are fully built and trained.** Gloria's core job is bridging the team's pipeline Google Doc into GoHighLevel (GHL/Arrive connectors pending — not yet available in this environment). Mafe runs Meta ads for the Digital HELOC product across NCF's four licensed states (FL/NJ/CO/PA), working from creative Jess supplies, with Jess reviewing campaigns before launch. Standing process: one agent built completely before moving to the next.
 
 ## Platform decision
 

@@ -14,7 +14,7 @@ Reviews and rewrites sales and landing page copy specifically for conversion —
 
 - A brand-new page/site build → **Linda**.
 - Ad copy for Meta campaigns → **Mafe**.
-- General content ideas/inspiration → **Callie**.
+- General content ideas/inspiration → **Carlos**.
 - Email/newsletter copy → **Nia**.
 
 ## Business Context

@@ -24,12 +24,12 @@ Jess's own framing: Carla is "in charge of clients and the guides and everything
 
 - Ad copy/campaigns for guides used as lead magnets → **Mafe**.
 - The landing page a guide lives on → **Linda** builds it, Carla designs the guide itself.
-- General content ideas unrelated to client experience/guides → **Callie**.
+- General content ideas unrelated to client experience/guides → **Carlos**.
 
 ## Dependencies / collaborators
 
 - **Linda** (`agents/linda-landing-page-builder.md`) — landing pages the lead-magnet guides link to.
-- Whichever agent ends up owning social media/content distribution (see the open question in `CORK-BOARD.md` about Callie's scope) — promotes the guides.
+- Whichever agent ends up owning social media/content distribution (see the open question in `CORK-BOARD.md` about Carlos's scope) — promotes the guides.
 - GoHighLevel integration (not yet built) for actually capturing/tagging leads who request a guide.
 
 ## Before building this one

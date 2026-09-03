@@ -1,6 +1,6 @@
 # Linda — Landing Page Builder
 
-**Status: not built yet.** See `TEAM-ROSTER.md` for current build order (#6, after Meg, Nia, Bridgette, Mafe, Callie).
+**Status: not built yet.** See `TEAM-ROSTER.md` for current build order (#6, after Meg, Nia, Bridgette, Mafe, Carlos).
 
 ## What this role is for
 
