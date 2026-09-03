@@ -20,7 +20,7 @@ Jess's own numbered list, roles as she described them. This is now the team, rep
 
 Naming resolved 9/2/26: #9 was briefly dropped, then confirmed back as Carrie.
 
-**#3 consolidated 9/2/26:** originally built as two separate agents — Bridgette (morning) and Grecia (evening, briefly named "Grace") — then merged into one, **Gloria**, at Jess's request: she wanted one consistent voice across the whole day, not a handoff between two strangers. Team is 9 members, not 10.
+**#3 consolidated 9/2/26:** originally built as two separate agents — Bridgette (morning) and Grecia (evening, briefly named "Grace") — then merged into one, **Gloria**, at Jess's request: she wanted one consistent voice across the whole day, not a handoff between two strangers. Team is 9 named roles in this numbered list; 11 total counting Ricky and Carla below.
 
 ## Captured but not yet build-queued
 
@@ -37,27 +37,7 @@ From Jess's cork-board brain dump (9/2/26) — real, named, reasonably scoped, b
 
 ## Role detail (what's confirmed so far, beyond the one-liner)
 
-**Gloria — Chief of Staff / Assistant.** Consolidated 9/2/26 from two separate agents (Bridgette, morning; Grecia, evening) into one — Jess wanted a single consistent voice across her whole day, "my right-hand... kind of like my work wife," not a handoff between strangers. Modeled loosely on a real demo from Amber McCue's AI Clone Team training (a "chief of staff" morning brief), stripped hard of its decorative filler (energy/astrology cards, vague "ratio check" paragraphs, hedged padding) per Jess's standing direction: plain, direct, eighth-grade-simple, no bullshit — but warm, since this is also meant to feel like a caring coach, not a corporate assistant. Jess has ADHD and relies on Gloria to keep her organized and on track.
-
-**Morning (~8:30am Mountain):**
-1. **One Big Thing today** — a single headline task, bolded, one line on why.
-2. **On deck** — a short runner-up list for after the Big Thing is done.
-3. A reminder to write her 6 gratitudes — in her physical journal, not captured digitally.
-4. A one-line social media content spark (not a full draft — that's Callie's/Nia's job).
-5. A market or loan-product update — confirmed sourcing (9/2/26): 10-year Treasury yield from CNBC first (the number tied to mortgage rates), plus the day's rate table from Mortgage News Daily (30-yr fixed conventional, 30-yr FHA, etc.), pulled live via web search each run, not hardcoded. Tested working: 10-yr yield 4.78%, 30-yr fixed conventional 6.91%, 30-yr FHA 6.45% (9/2/26).
-6. Whatever got pushed over from the night before.
-
-**Evening (~5:00pm Mountain):**
-1. A genuine, specific list of things Jess accomplished that day — celebrated warmly ("great job, look at these wins, be proud"), sourced from this repo's own git activity, never padded or invented. Inspiration for Jess's own physical journal entry, not a replacement for it.
-2. What didn't get done.
-3. Tomorrow's Big Thing, carried into the next morning's entry.
-4. A warm, real sign-off.
-
-Explicitly deferred (not v1): Jess described a bigger future vision — Gloria eventually handling calls, texts, and emails from other people, connected to Outlook and social at a high level. She explicitly said "deal with that later" — needs the GHL/email integration this project hasn't built yet, plus real authority decisions. Also available any time, not just her two scheduled runs — same as the rest of the roster, Jess can ask her anything in chat.
-
-**Live as of 9/2/26:** two daily cloud routines (`Gloria - Morning Check-in`, `Gloria - Evening Wrap-up`), Bridgette's and Grecia's original schedules carried over unchanged (8:30am / 5:00pm Mountain). Deliberately scoped to this repo + web search + push notifications only — no Google Drive or Slack access (Jess doesn't use Slack; Drive isn't needed for anything Gloria actually does today).
-
-**The shared log.** Gloria's morning and evening runs write into one running file, `agents/daily-brief-log.md` (same newest-entry-at-top pattern as `EXECUTION-LEDGER.md`) — that's the handoff mechanism between the two touchpoints, no live integration needed.
+**Gloria — fully trained 9/2/26, see `agents/gloria-assistant.md` for the complete doc** (this section used to duplicate it — now just points there so the two can't drift out of sync). Short version: her core job is bridging the team's real pipeline-tracking system — a running Google Doc, not GHL directly — into GoHighLevel (and eventually Arrive), since manual GHL data entry wasn't working for the team. Plus the AM/PM daily touchpoints, general to-do tracking, and a monthly stats brief once GHL/Arrive access exists. Live as two daily cloud routines (`Gloria - Morning Check-in`, `Gloria - Evening Wrap-up`, 8:30am / 5:00pm Mountain), now with Google Drive access enabled (Slack stays off — Jess doesn't use it).
 
 **Mafe — Meta Ads.** Full lifecycle expert: budgets, A/B testing, ad copy, every component of a Meta ad, and funneling those leads into GoHighLevel start to finish. Jess called this one out as the most urgent to build.
 
@@ -108,6 +88,6 @@ Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder)
 **Standing process, confirmed 9/2/26: one at a time, fully finished before moving on — no more gaps.**
 
 1. Roster planning — done, this doc.
-2. **Gloria — in progress now.** Reprioritized to #1 (over Mafe) — Jess's own words: "Gloria could run the business if I wasn't there." Live since 9/2/26 (two daily cloud routines), but not yet trained to Meg's depth. Real business-context interview starting now.
-3. **Mafe** — next after Gloria is fully finished, not before.
+2. ~~Gloria~~ — **done, fully trained 9/2/26.** Reprioritized to #1 (over Mafe) on Jess's call — "Gloria could run the business if I wasn't there." Same depth as Meg.
+3. **Mafe — next.** Flagged urgent by Jess from the start; her turn now that Gloria's finished.
 4. Everyone else (Carrie, Callie, Linda, Wanda, Gia, Nia's full interview) — order still open.
