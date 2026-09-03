@@ -6,6 +6,12 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ---
 
+### 2026-09-02 (cont'd, part 12) — Gloria reprioritized to #1, real interview starting
+- Jess overrode the Mafe-next recommendation: Gloria goes first, fully finished, before anything else. Standing process confirmed: build one agent at a time, completely, no gaps, before moving to the next.
+- Jess elevated Gloria's role significantly beyond the daily AM/PM brief: "Gloria could run the business if I wasn't there" — she should know the business's numbers and overall status, and have a real project-manager function coordinating efficient communication across the whole team. This is why she jumped ahead of Mafe despite Mafe's urgency flag. Captured in `agents/gloria-assistant.md`.
+- Updated `TEAM-ROSTER.md`'s build order to reflect Gloria #1 / Mafe #2 and the one-at-a-time-fully-finished process.
+- **Not done yet:** the actual business-context interview — questions asked this turn, answers pending.
+
 ## Log
 
 ### 2026-09-02 (cont'd, part 11) — Corrected course: licensing research isn't urgent, roster needed a visual

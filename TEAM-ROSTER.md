@@ -105,7 +105,9 @@ Marlow (Modern CFO), Allie (Market & Competitive), Betty (Business Plan Builder)
 
 ## Build order
 
+**Standing process, confirmed 9/2/26: one at a time, fully finished before moving on — no more gaps.**
+
 1. Roster planning — done, this doc.
-2. **Gloria** — live as of 9/2/26 (two daily cloud routines running). Still needs the full `docs/training-doc-template.md` treatment to count as fully "built," same as the rest of the roster.
-3. **Mafe** — flagged as most urgent by Jess. Next up.
+2. **Gloria — in progress now.** Reprioritized to #1 (over Mafe) — Jess's own words: "Gloria could run the business if I wasn't there." Live since 9/2/26 (two daily cloud routines), but not yet trained to Meg's depth. Real business-context interview starting now.
+3. **Mafe** — next after Gloria is fully finished, not before.
 4. Everyone else (Carrie, Callie, Linda, Wanda, Gia, Nia's full interview) — order still open.
