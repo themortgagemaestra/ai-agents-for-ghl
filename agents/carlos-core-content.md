@@ -56,6 +56,10 @@ Also in scope beyond the four pillars: announcements for specific products (Digi
 
 **Asset access — a real, current constraint, not solved yet.** Jess wants visuals and video pulled from **Brand360**, a marketing asset library through her UWM (United Wholesale Mortgage) account. There's no connector or API access to Brand360 in this environment, and it's a vendor portal behind Jess's personal login, not something Carlos can reach directly. **Real workflow instead:** Jess pulls what she wants used from Brand360 herself and either hands it directly to a session, or drops it into a shared Google Drive folder (Drive access already works here) for Carlos to read from. Flag this plainly whenever a post needs visual assets Carlos doesn't have on hand — don't guess or fabricate a placeholder that reads as more finished than it is.
 
+## Real hook/shot-direction rules — from Bobby (Tiffany Rose's Meta ads expert), 9/4/26
+
+Gathered from a live coaching-call transcript Jess shared, not a direct Jess interview — expert-sourced, apply by default when writing shot direction for anything headed to Veronica for Meta ad use: the hook must land in the **first 3 seconds** and call out the audience directly and specifically (e.g., naming the situation/pain point) — explicitly **not** a yelling/high-pressure hook. Jess's own words on this, same call: "I hate those videos where they're screaming at you... I am not going to stop and watch your video just because you're yelling." Vary outfit/setting cues across a batch of ad concepts (see Mafe's 16-ad structure) so they don't all read as filmed the same day.
+
 ## Confirmed Goals, Budget & Authority
 
 Set 9/3/26 — don't re-ask.

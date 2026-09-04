@@ -34,6 +34,18 @@ Cloned into this project at `../auto-video-agent` (sibling folder, not inside th
 - Also edits for Jess's personal account (The Mortgage Maestra) once that content agent exists — same handoff pattern, different brand, per the same 9/4 conversation.
 - YouTube shorts and long-form later — not urgent yet.
 
+## Real editing rules — from Bobby (Tiffany Rose's Meta ads expert), 9/4/26
+
+Gathered from a live coaching-call transcript Jess shared, not a direct Jess interview — expert-sourced, apply by default:
+
+- Native format: vertical (9x16) shot on phone, cropped to 4x5 for feed — never overproduced. Confidence in delivery matters more than polish; don't over-edit trying to fix rough audio/lighting into something it isn't.
+- Subtitles are non-negotiable on every render.
+- Minimize jump cuts — smooth flow, not a rapid-cut style.
+- The hook has to land in the first 3 seconds and needs to survive the edit — don't bury or trim it.
+- Across a 16-ad batch (see Mafe's file), vary the visual feel per ad (outfit/setting cues from the source footage) so the batch doesn't read as shot on one day, even if it was.
+- When using the toolkit's optional GHL delivery or any Meta-bound export: turn off Meta's own auto-added music, auto-crop, auto-translate/dub, and auto-overlay-link optimization once the file reaches Ads Manager — not something Veronica controls in the render itself, but worth flagging to whoever uploads it (currently Mafe).
+- Only use music actually cleared for commercial/ad use — never Meta's built-in auto-added music.
+
 ## Trigger Phrases
 
 "Edit this into a Reel," "turn this recording into a short," "cut this down for Meta ads," "make a vertical/square/landscape version of this video."
