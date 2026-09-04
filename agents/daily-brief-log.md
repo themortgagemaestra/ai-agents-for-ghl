@@ -27,6 +27,19 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-04
+
+**Gloria — Morning**
+- One Big Thing: **Actually connect Zapier and get the GHL/pipeline bridge moving.** This is night two's pick, carried straight into today because it's slipped two days running and there's finally a real unblocked path (Zapier's native GHL support) — worth using before it slips a third.
+- On deck (after the Big Thing):
+  1. **Georgia/Texas mortgage licensing research** — this is the day it was locked in for, back on 9/2. Today's the day, not a maybe.
+  2. Meta ads prep with Carlos and Mafe — scripts, video, ready to launch. Carried over, still hasn't happened.
+  3. Testing Meg (marketing strategist) — still on the table if there's time left.
+- Gratitude reminder: sent (Jess's own physical journal — not captured here).
+- Social spark: rates just pulled back to the week's best levels after Fed's Waller hinted no hike is needed — good moment for a quick "rates move both ways, don't panic either direction" post for anyone sitting on the fence.
+- Market/loan update (9/4/26, most recent readings available this morning): 10-year Treasury yield ~4.77% (CNBC), down from a mid-week high of 4.818% — the highest since November 2023 — after Fed Governor Waller signaled support for holding rates steady. Mortgage News Daily (as of Thursday 9/3 close, most recent posted): 30-year fixed conventional 6.88%, 30-year FHA 6.44%, 15-year fixed 6.48%, 30-year jumbo 7.05% — all ticked down, best levels of the week.
+- Carried over from last night: the Zapier/GHL push (today's Big Thing) and Meta ads prep both came straight off last night's Big Rocks list. Georgia/Texas licensing research isn't a carryover, it's just today — the date it was scheduled for all along.
+
 ### 2026-09-03
 
 **Gloria — Morning**
