@@ -8,6 +8,12 @@ This file is the project's memory. Read it first, every session, before doing an
 
 ## Log
 
+### 2026-09-03 (cont'd, part 2) — Carlos's visual asset library, Gloria's evening wrap-up reformatted
+
+- **Carlos got a real visual asset library, not a spec.** Jess supplied 17 evergreen background photos (houseplants, interiors, some exteriors) — not tied to any one client, safe to reuse for any client-review/testimonial post year-round. Working copies are in this session's scratchpad; the durable home is the "Carlos - Social Post Backgrounds" folder Jess already created under her Google Drive "AI Agents" folder, so a future session reads straight from Drive instead of her resending the zip. Exact review-card layout captured too: full-bleed photo background, centered rounded cream card, 5 gold stars, pink script "Client Review" heading, quote, italic English translation under any Spanish original, client name in italics at the bottom — built with real design tools (Python/Pillow), never handed back as a text-only mockup.
+- **New posting-cadence rule confirmed for Carlos:** no more than 2 client-review/client-win posts a week, never back-to-back — sprinkled among other post types (loan-program post, market update, closing photo) even with a real review backlog tempting a cluster.
+- **Gloria's evening wrap-up reformatted, per Jess's direct feedback.** She didn't like the single running block — wanted three clear, scannable sections instead: **Today's Wins**, **Big Rocks for Tomorrow** (a short menu of candidate priorities, not one answer), and **My Pick: The Big Thing** (Gloria's own call, called out separately). Updated the entry template and Gloria's role spec (`agents/gloria-assistant.md`) so this is now the standing format, and reformatted the 9/3 evening entry itself to match — content unchanged, just the shape. No approval loop needed on this format going forward.
+
 ### 2026-09-03 (cont'd) — Carlos built and trained: NCF's real social media manager
 
 - Jess renamed **Callie → Carlos** first — her own words: these are her AI agents, not her clones, and a content/support role doesn't have to default female. Mechanical rename done across every current-state file (`TEAM-ROSTER.md`, `CORK-BOARD.md`, `ROADMAP.md`, every other agent's cross-references), including pronouns and the file path itself (`agents/callie-core-content.md` → `agents/carlos-core-content.md`). Historical ledger/log entries left untouched on purpose — that's what was true at the time.

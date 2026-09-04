@@ -50,6 +50,7 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 - Captured your real voice rules — no em dashes, "Latin@" as the preferred term, always naming NCF as Latina-owned, no invented testimonials, and more — plus two real client testimonials, permanently into the email-builder skill, so none of it has to be re-explained next time.
 - Found a real, concrete path to finally connect GoHighLevel: Zapier is available in this environment and has native GHL support — the exact option you yourself flagged months ago ("even if it means paying for a Zapier subscription").
 - Renamed Callie to Carlos across every doc — your call, your agents not clones, no reason content roles default female — and gave Carlos his real business-context interview. He's built and trained now: your actual social media manager, not just a stub.
+- Gave Carlos a real visual asset library to work from: your 17 evergreen background photos are captured and the exact review-card layout is locked in (gold stars, script "Client Review" heading, quote, name), plus a real posting-cadence rule — no more than 2 client-review posts a week, never back-to-back.
 
 That's real, concrete progress — not busywork, even though it took a different shape than the morning's plan.
 
