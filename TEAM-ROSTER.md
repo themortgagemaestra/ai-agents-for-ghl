@@ -30,8 +30,11 @@ From Jess's cork-board brain dump (9/2/26) — real, named, reasonably scoped, b
 |---|---|---|
 | **Ricky** | The Refi Agent — tracks client equity/loan position across the board, flags refinance timing, kicks off HELOC drip campaigns with Wanda | Concept captured — `agents/ricky-refi-agent.md` |
 | **Carla** | Client happiness + artistic design — client retention/experience ideas, plus beautiful lead-magnet guides (e.g. "Moving to Denver") | Concept captured — `agents/carla-client-happiness.md` |
+| **Veronica** | Video editor — Reels/Meta ad video for NCF now, Jess's personal account and YouTube shorts/long-form later | Named & scoped 9/4/26, toolkit installed and confirmed working (Node/FFmpeg/Remotion render tested end-to-end) — `agents/veronica-video-editor.md` |
 
-**Resolved 9/3/26:** this was Carlos's real interview all along — social-media script writing, content calendar, and video/visual production are now all explicitly his scope (see `agents/carlos-core-content.md`). The separate future video-editing role idea is resolved into Carlos, not spun off on its own.
+**Reopened and reversed, 9/4/26:** the 9/3 resolution below (video folded into Carlos) got overridden — Jonathan shared the actual toolkit he uses ([`jzferrell26/auto-video-agent`](https://github.com/jzferrell26/auto-video-agent)), and Jess decided, explicitly, that video editing is its own separate agent after all — **"Carlos is going to be doing separate stuff. The AI editing agent... is going to be something separate."** Named Veronica. **`agents/carlos-core-content.md` still has the old 9/3 language and needs a correction pass** so the two files stop contradicting each other — not done yet.
+
+~~**Resolved 9/3/26:** this was Carlos's real interview all along — social-media script writing, content calendar, and video/visual production are now all explicitly his scope (see `agents/carlos-core-content.md`). The separate future video-editing role idea is resolved into Carlos, not spun off on its own.~~ *(superseded 9/4/26, see above — left here rather than deleted so the history of the decision is visible, not just the reversal.)*
 
 ---
 

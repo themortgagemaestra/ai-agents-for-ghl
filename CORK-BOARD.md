@@ -16,7 +16,7 @@ This file is the digital version of that board. **Nothing here is being built ri
 
 **Carla — Client Happiness + Artistic Design.** Started as two separate ideas Jess merged into one: (1) a "chief client happiness officer" — client retention, referrals, client-experience ideas (see the closings/client-love notes below); (2) an artistic, technically sharp design/content person who builds beautiful lead-magnet guides (the "Moving to Denver" idea below). Jess combined them into one role and named her Carla. Full spec captured in `agents/carla-client-happiness.md`.
 
-**A dedicated video-editing agent — raised, then resolved into Carlos.** Raised during Mafe's interview (9/2/26): "we need another AI agent to edit videos for Instagram Reels, for Meta ads, and then eventually for YouTube, both shorts and long form, and content in general." Reference point: Jonathan (Jess's CRM coach) apparently uses Claude for exactly this on his own landing page and videos. **Resolved 9/3/26, during Carlos's real interview:** this doesn't spin off as a separate role — Carlos owns visuals and video himself as NCF's social media manager, not just scripts. No separate video-editing agent is planned unless that changes.
+**A dedicated video-editing agent — raised, resolved into Carlos, then reopened. Graduated 9/4/26 as its own role, Veronica.** Raised during Mafe's interview (9/2/26): "we need another AI agent to edit videos for Instagram Reels, for Meta ads, and then eventually for YouTube, both shorts and long form, and content in general." Resolved into Carlos's scope on 9/3/26 during his real interview. Reopened 9/4/26 when Jonathan actually shared the toolkit he uses ([`jzferrell26/auto-video-agent`](https://github.com/jzferrell26/auto-video-agent)) — Jess decided video editing should be its own dedicated agent after all, distinct from Carlos. See `agents/veronica-video-editor.md`.
 
 **Carlos's scope — fully resolved 9/3/26.** Renamed from Callie the same day (Jess's own words: these are her AI agents, not her clones, and content roles don't have to default female — same scope, new name). Full real interview happened 9/3/26, not just the Mafe-interview scope note from the day before: Carlos is NCF's actual social media manager across Instagram, Facebook, and LinkedIn — see `agents/carlos-core-content.md` for the complete training doc.
 
@@ -64,7 +64,9 @@ From the same "how I want to handle closings/clients" note:
 
 ## In Progress
 
-*(nothing moved here yet)*
+**Veronica — Video Editor.** Graduated 9/4/26: named by Jess, real stub captured in `agents/veronica-video-editor.md`, row added to `TEAM-ROSTER.md`. Toolkit ([`jzferrell26/auto-video-agent`](https://github.com/jzferrell26/auto-video-agent)) cloned, Node.js/FFmpeg installed, `npm ci` / `npm run check` / `npm run demo` all passed — the render pipeline is confirmed working end to end. Not yet run against real footage, and the real business-context interview hasn't happened. **Carlos's file still needs a correction pass** — it currently says video was resolved into his scope; that's superseded as of today.
+
+**Jess's personal-brand content agent (working name attempts: "Sol," rejected).** Raised 9/4/26, same session as Veronica: a dedicated agent for Jess's own account (The Mortgage Maestra), separate from Carlos/NCF — music, the band, yoga, her 135-year-old house, Latina identity, dark humor, journaling, the arts. First content ideas offered (three concepts for a rainbow-morning-light video) were rejected as generic. **Paused, not abandoned** — Jess is sending real reference posts/accounts she actually likes, same calibration approach used for Carlos (Connor D. Cole, Caroline Sells Colorado). Not yet named, scoped, or stubbed — waiting on those references before building anything further.
 
 ## Complete
 
