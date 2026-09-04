@@ -40,6 +40,26 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 - Market/loan update (9/4/26, most recent readings available this morning): 10-year Treasury yield ~4.77% (CNBC), down from a mid-week high of 4.818% — the highest since November 2023 — after Fed Governor Waller signaled support for holding rates steady. Mortgage News Daily (as of Thursday 9/3 close, most recent posted): 30-year fixed conventional 6.88%, 30-year FHA 6.44%, 15-year fixed 6.48%, 30-year jumbo 7.05% — all ticked down, best levels of the week.
 - Carried over from last night: the Zapier/GHL push (today's Big Thing) and Meta ads prep both came straight off last night's Big Rocks list. Georgia/Texas licensing research isn't a carryover, it's just today — the date it was scheduled for all along.
 
+**Gloria — Evening**
+
+**Today's Wins — real ones:**
+- Stood up a real new agent, Veronica, as a dedicated video editor — split back out from Carlos on your own call, once Jonathan actually shared the real toolkit he uses (`jzferrell26/auto-video-agent`). Not just named on paper: Node.js and FFmpeg got installed, and `npm ci` / `npm run check` / `npm run demo` all passed with a real rendered video output. That's a working pipeline, confirmed end to end.
+- Corrected Carlos's and Mafe's files so the real handoff chain — you and Carlos write direction, Veronica edits, Mafe traffics the ads — is consistent everywhere instead of contradicting itself.
+- Pulled real expert guidance out of Bobby's coaching call (the 9/3 Tiffany Rose transcript) and got it permanently into the team instead of sitting in a transcript nobody reads twice: the 16-ad campaign architecture for Mafe, the first-3-seconds hook rule for Carlos's shot direction, and the actual editing rules (native vertical, subtitles, minimal jump cuts) for Veronica.
+
+That's real, technical progress — a new working tool in the business, not just talk about one.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Zapier → GHL bridge.** Straight talk: this is the third day in a row it hasn't moved. It's still your stated #1 job for me, and today it lost out to real, worthwhile work on Veronica — but it can't keep losing every day. Worth actually blocking real time for tomorrow instead of leaving it to compete with whatever comes up.
+- Georgia/Texas mortgage licensing research — this was locked in for today and didn't happen. Still open.
+- Meta ads prep with Carlos and Mafe — scripts, video, ready to launch. Still hasn't happened, though today's coaching-call capture is real groundwork toward it.
+- Testing Meg — still on the table.
+- Two smaller open threads from today, not urgent but worth knowing about: Veronica's real business-context interview hasn't happened yet (her file is a stub), and Jess's personal-brand content agent idea is paused, waiting on reference posts before it gets named or scoped.
+
+**My Pick — The Big Thing:** **Actually connect Zapier and get the GHL/pipeline bridge moving.** Three days running now — today's a good reminder that it won't happen by accident, so it needs to be the first thing tackled tomorrow, before anything else has a chance to eat the day.
+
+Good night, Jess. Real, working progress today — Veronica's toolkit actually renders video end to end, that's not nothing. Rest up, and let's get Zapier moving first thing tomorrow.
+
 ### 2026-09-03
 
 **Gloria — Morning**
