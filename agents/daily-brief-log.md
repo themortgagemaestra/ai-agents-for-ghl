@@ -18,10 +18,12 @@ Modeled on a real "chief of staff" morning-brief demo from Amber McCue's AI Clon
 - Carried over from last night: [pulled from yesterday's evening entry, if anything]
 
 **Gloria — Evening**
-- Accomplishment inspo: [candidate list of things Gloria knows Jess got done today, sourced from this repo's own git activity (GHL activity once connected) — not a fixed count, not Jess's actual journal entry, just raw material for her to pick from when she writes her own physical journal, celebrated warmly and specifically]
-- Didn't get to: [short list]
-- Tomorrow's Big Thing: [carried into tomorrow morning's entry]
+- Today's Wins: [candidate list of things Gloria knows Jess got done today, sourced from this repo's own git activity (GHL activity once connected) — not a fixed count, not Jess's actual journal entry, just raw material for her to pick from when she writes her own physical journal, celebrated warmly and specifically]
+- Big Rocks for Tomorrow: [a short list of candidate priorities for tomorrow — options, not a single pick. Opens with anything that didn't get done today and is still worth carrying forward, then anything else worth considering]
+- My Pick: The Big Thing: [Gloria's own single headline call from that list, with a one-line reason why — carried into tomorrow morning's entry]
 ```
+
+Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan at a glance — a plain list of wins, a short menu of candidate priorities for tomorrow, then Gloria's own pick called out separately. Content is unchanged, just the shape.
 
 ## Entries
 
@@ -41,7 +43,7 @@ Modeled on a real "chief of staff" morning-brief demo from Amber McCue's AI Clon
 
 **Gloria — Evening**
 
-**Accomplishment inspo — real wins today, here's what's real:**
+**Today's Wins — real ones, here's what's real:**
 - Found and fixed a real blocker herself: GitHub was blocking pushes with a 403 because the Claude GitHub App wasn't authorized on this repo. Walked you through the actual fix — the GitHub-side installation page, not claude.ai's own connector settings — and pushes went right back to working.
 - Nia shipped her first two real email builds: the Sept 17 Hispanic Heritage Month send and the Sept 18 equity check-in, both pulled from your real September email calendar.
 - Caught and permanently killed two real recurring bugs while doing it: emails rendering shrunk on mobile Gmail (fixed in both master templates so it can't come back), and the "same-day closing" claim you've had to correct before (replaced everywhere with the accurate three-weeks-or-less, with a loud warning built into the skill file so it can't resurface).
@@ -51,13 +53,13 @@ Modeled on a real "chief of staff" morning-brief demo from Amber McCue's AI Clon
 
 That's real, concrete progress — not busywork, even though it took a different shape than the morning's plan.
 
-**Didn't get to:**
-- Today's stated #1: pushing the GHL/pipeline sync forward. Second day in a row it didn't start — the whole day went to Nia's email builds instead.
-- Meta ads prep with Carlos and Mafe.
-- Testing Meg.
-- (Georgia/Texas licensing correctly stayed parked for tomorrow, Friday 9/4 — that one's on track, not a miss.)
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Zapier → GHL bridge.** The whole reason it's a candidate again: this was today's stated #1 and it didn't start, second day in a row — the whole day went to Nia's email builds instead. There's now a real unblocked path (Zapier), so it's not stuck for lack of an option anymore.
+- Meta ads prep with Carlos and Mafe — scripts, video, ready to launch. Carried over, didn't get to it today.
+- Testing Meg — still on the table.
+- Georgia/Texas licensing research — already locked in for tomorrow, Friday 9/4, separate from whatever else you pick. That one's on track, not a candidate, just a fact of the day.
 
-**Tomorrow's Big Thing:** **Actually connect Zapier and get the GHL/pipeline bridge moving.** This has slipped two days straight, and today you finally found the real unblocked path to do it — worth using before it slips a third time. Georgia/Texas licensing research also happens tomorrow, already locked in for Friday 9/4 — a separate, already-scheduled item, not competing with the Big Thing.
+**My Pick — The Big Thing:** **Actually connect Zapier and get the GHL/pipeline bridge moving.** It's slipped two days straight, and today you finally found the real unblocked path to do it — worth using before it slips a third time.
 
 Good night, Jess. Real progress today, even if it wasn't the plan you woke up with — rest up.
 

@@ -71,11 +71,11 @@ Set 9/2/26 — don't re-ask.
 5. Market/rate update — 10-year Treasury yield (CNBC) first, plus today's rates from Mortgage News Daily, pulled live via web search each run.
 6. Anything carried over from last night's evening entry.
 
-**Evening (~5:00pm Mountain):**
-1. A genuine, specific list of things Jess accomplished today — celebrated warmly, sourced from real activity, never padded or invented. Inspiration for Jess's own physical journal entry, not a replacement for it.
-2. What didn't get done.
-3. Tomorrow's Big Thing, carried into the next morning.
-4. A warm, real sign-off.
+**Evening (~5:00pm Mountain):** three clear sections (reformatted 9/4/26 per Jess's direct feedback — she wants it easier to scan, not one running block):
+1. **Today's Wins** — a genuine, specific list of things Jess accomplished today, celebrated warmly, sourced from real activity, never padded or invented. Inspiration for Jess's own physical journal entry, not a replacement for it.
+2. **Big Rocks for Tomorrow** — a short menu of candidate priorities, not a single pick: leads with anything that didn't get done today and is still worth carrying forward, then anything else worth considering.
+3. **My Pick: The Big Thing** — Gloria's own single headline call from that list, with a one-line reason why, carried into the next morning's entry.
+Then a warm, real sign-off.
 
 Both read from and write to the shared log, `agents/daily-brief-log.md`.
 
