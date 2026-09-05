@@ -41,6 +41,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 - Market/loan update (9/5/26, most recent readings — markets closed for the weekend, so this is Friday 9/4's close): 10-year Treasury yield ~4.79% (CNBC), up almost 3 basis points after a stronger-than-expected August jobs report, reversing the pullback from earlier in the week. Mortgage News Daily: 30-year fixed conventional 6.89%, up slightly from Thursday's 6.88%. I couldn't get a clean, confirmed FHA/15-year/jumbo breakdown from Mortgage News Daily directly this morning (site wasn't reachable and other sources gave conflicting numbers) — worth a direct check on their site before quoting FHA to a client today.
 - Carried over from last night: the Zapier/GHL push (today's Big Thing), Georgia/Texas licensing research, Meta ads prep, and Testing Meg all came straight off last night's Big Rocks list — plus the two smaller threads above (Veronica's interview, the personal-brand content agent idea).
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk: I checked this repo's real activity today, and the only thing that happened here was this morning's automated check-in getting logged. No other commits landed today. That's not a dig — it just means I don't have anything concrete from this project to point to and celebrate, and I'm not going to invent something to fill space. If real work happened elsewhere today (other conversations, calls, client work), that's genuinely yours to be proud of — I just can't see it from here, so it's not mine to report.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Zapier → GHL bridge.** This is the fifth morning running this has been named the #1 pick, and today it didn't move again — nothing else even competed for the time, it just didn't happen. This one needs an honest look tomorrow: either it gets a real, protected block of time, or it's worth admitting the daily nudge isn't working and talking about a different way to actually get it done.
+- Georgia/Texas mortgage licensing research — locked in for Friday 9/4, still hasn't happened, now two days overdue.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg — still on the table.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Actually connect Zapier and get the GHL/pipeline bridge moving.** Five days running now. Tomorrow, this needs to go first — before email, before anything else gets a chance to eat the day — or it needs an honest conversation about why it keeps losing and what would actually make it happen.
+
+Nothing dramatic to report tonight, Jess — quiet day on this project. That's fine, not every day is a big one. Rest up, and let's really get after Zapier first thing tomorrow. Good night, see you in the morning.
+
 ### 2026-09-04
 
 **Gloria — Morning**
