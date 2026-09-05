@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-05
+
+**Gloria — Morning**
+- One Big Thing: **Actually connect Zapier and get the GHL/pipeline bridge moving.** Straight talk: this is the fourth morning in a row this has been the pick. It's your stated #1 job for me, and it keeps losing to whatever else comes up. Today it needs to go first, before anything else gets a chance to eat the day.
+- On deck (after the Big Thing):
+  1. **Georgia/Texas mortgage licensing research** — this was locked in for Friday 9/4 and didn't happen. It's overdue now, not just "on deck."
+  2. Meta ads prep with Carlos and Mafe — scripts, video, ready to launch. Still carried over.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Two smaller open threads, not urgent but worth knowing about: Veronica still needs her real business-context interview (her file's still a stub), and your personal-brand content agent idea is paused, waiting on reference posts.
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: yields moved on a stronger-than-expected jobs report Friday — good moment for a quick post on why rates jump around on data days, and why trying to time the "perfect" day to lock is a losing game.
+- Market/loan update (9/5/26, most recent readings — markets closed for the weekend, so this is Friday 9/4's close): 10-year Treasury yield ~4.79% (CNBC), up almost 3 basis points after a stronger-than-expected August jobs report, reversing the pullback from earlier in the week. Mortgage News Daily: 30-year fixed conventional 6.89%, up slightly from Thursday's 6.88%. I couldn't get a clean, confirmed FHA/15-year/jumbo breakdown from Mortgage News Daily directly this morning (site wasn't reachable and other sources gave conflicting numbers) — worth a direct check on their site before quoting FHA to a client today.
+- Carried over from last night: the Zapier/GHL push (today's Big Thing), Georgia/Texas licensing research, Meta ads prep, and Testing Meg all came straight off last night's Big Rocks list — plus the two smaller threads above (Veronica's interview, the personal-brand content agent idea).
+
 ### 2026-09-04
 
 **Gloria — Morning**
