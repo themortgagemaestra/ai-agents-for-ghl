@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-06
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: I checked this repo's real activity today, and the only thing that landed was this morning's automated check-in commit. No other work happened in this project today. That's the honest read from here — I'm not going to pad it or guess at things I can't see. If you did real work today outside this project (calls, client work, other conversations), that's genuinely yours to be proud of — I just have no way to see it from this seat, so it's not mine to report.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Zapier → GHL bridge.** This is the sixth day in a row it hasn't moved, and tomorrow morning would make it the seventh time this gets named the pick. I said it last night and I'll say it straighter tonight: naming it every morning isn't working as a strategy on its own. This needs one of two things tomorrow — an actual protected block of time on your calendar before anything else touches it, or a real conversation about a different way to get it done (hiring it out, a specific day set aside, whatever actually breaks the pattern). Repeating the same nudge a seventh time without changing the approach isn't coaching, it's just noise.
+- Georgia/Texas mortgage licensing research — locked in for Friday 9/4, still hasn't happened, now several days overdue.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg — still on the table.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Actually connect Zapier and get the GHL/pipeline bridge moving — but change how we're attacking it.** Six days of the same ask losing to whatever else comes up means the ask itself needs to change, not just repeat. Tomorrow: either a real protected block of time gets put on the calendar for this specifically, or we talk honestly about handing it to someone/something else to actually execute.
+
+Nothing dramatic to report tonight, Jess — quiet day on this project, looks like a quiet weekend. That's fine, not every day needs to be a big one. Rest up, and let's really get honest about Zapier tomorrow. Good night, see you in the morning.
+
 **Gloria — Morning**
 - One Big Thing: **Actually connect Zapier and get the GHL/pipeline bridge moving.** Straight talk, Jess: this is the sixth morning running this has been the pick. It's still your stated #1 job for me. Today it goes first, before email, before anything else gets a chance to eat the day — or we need an honest conversation about why it keeps losing and what would actually make it happen.
 - On deck (after the Big Thing):
