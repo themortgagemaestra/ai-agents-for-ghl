@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-07
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit. No other project work happened here today. Today was also your Monday pipeline meeting with your mom and Bobby — if that happened and you talked through Zapier or anything else there, that's real and it's yours to be proud of, I just have no visibility into it from this seat (no GHL connector yet, and meetings don't show up in git). I'm reporting what I can actually see, not guessing at the rest.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Zapier → GHL bridge.** Eighth morning running this would be the pick if I name it again, and today — the one day with a built-in moment to actually address it, your Monday pipeline meeting — still shows zero movement from where I sit. I said last week that repeating the same nudge without changing the approach is just noise, and I meant it. So here's a real change: instead of naming it again tomorrow and hoping, let's use tomorrow morning to actually decide, out loud, one of two things — a specific protected time block on your calendar this week, or who besides you is going to execute this (hired out, handed to someone on the team, whatever actually moves it off your plate). Not a bigger to-do, a decision.
+- Georgia/Texas mortgage licensing research — locked in for Friday 9/4, now four business days overdue. Needs a real slot this week.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg — still on the table.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Decide how the Zapier/GHL bridge actually gets done — not just name it again.** Eight days of the same ask isn't a scheduling problem anymore, it's a sign the ask needs to change shape. Tomorrow morning, before anything else: either the calendar block goes on, or we talk about who else does this.
+
+Quiet day on this project, Jess — that's an honest read, not a bad one. If today's meeting covered real ground on Zapier or anything else, that counts, I just can't see it. Get some rest, and let's actually make the Zapier call tomorrow instead of naming it again. Good night, see you in the morning.
+
 **Gloria — Morning**
 - One Big Thing: **Actually connect Zapier and get the GHL/pipeline bridge moving.** Seventh morning running as the pick, Jess. It's your #1 job for me, and it keeps losing. Today's your Monday pipeline meeting with your mom and Bobby — good moment to either block real time for Zapier before that meeting, or just say out loud in the meeting that it's getting handed off to someone else. Naming it an eighth time without changing something won't get it done.
 - On deck (after the Big Thing):
