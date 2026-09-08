@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-08
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit. No other project work happened here today. That said — today's Big Thing wasn't a coding task, it was a decision (a calendar block or naming who else executes Zapier). A decision like that wouldn't show up in git either way, whether you made it or not. So I genuinely can't tell you from this seat whether it happened — that's a real gap in what I can see, not evidence it didn't. If you made that call today, that's a real win and I just can't see it from here.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Zapier → GHL bridge — status unknown from here.** If you made the decision today (calendar block or a name), tell me and I'll track whatever's next. If it's still open, that's nine mornings running now, and I don't think naming it a ninth time changes anything I haven't already said. I'm not putting it up as tomorrow's headline again — see my pick below — but it's not off the list either.
+- **Georgia/Texas mortgage licensing research** — locked in for Friday 9/4, still hasn't happened, now crossed into overdue-by-more-than-a-week territory (Monday's holiday bought one real excuse, today didn't). This one's concrete, bounded, and doesn't depend on anyone else — worth just sitting down and doing.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg — still on the table.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Georgia/Texas mortgage licensing research.** Not because Zapier stopped mattering — it's because I've named Zapier nine mornings running and repeating it again isn't coaching, it's just noise. Licensing research is fully in your control, overdue, and small enough to actually finish in one sitting. Clear that one, get a real win on the board, and let's revisit Zapier with fresh eyes once it's not competing with an overdue task sitting on top of it.
+
+Quiet day on this project from where I sit, Jess — but "quiet in git" isn't the same as "quiet in your day," especially with a decision-task that wouldn't leave a trace either way. Get some rest. Have a good night, see you in the morning.
+
 **Gloria — Morning**
 - One Big Thing: **Make the actual Zapier/GHL decision — not another nudge.** This is the eighth morning this has been the pick, but today's different: last night I said we stop naming it and actually decide. One quick worth-knowing fact — yesterday, Monday 9/7, was Labor Day. So if your usual Monday pipeline meeting with your mom and Bobby got skipped or pushed because of the holiday, that's a real reason, not a dodge. Today's a clean day with no holiday in the way: before anything else, pick one — a specific protected block on your calendar this week for Zapier, or name who besides you is actually going to execute it. Just the decision, nothing bigger.
 - On deck (after the Big Thing):
