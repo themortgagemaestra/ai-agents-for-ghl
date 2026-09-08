@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-08
+
+**Gloria — Morning**
+- One Big Thing: **Make the actual Zapier/GHL decision — not another nudge.** This is the eighth morning this has been the pick, but today's different: last night I said we stop naming it and actually decide. One quick worth-knowing fact — yesterday, Monday 9/7, was Labor Day. So if your usual Monday pipeline meeting with your mom and Bobby got skipped or pushed because of the holiday, that's a real reason, not a dodge. Today's a clean day with no holiday in the way: before anything else, pick one — a specific protected block on your calendar this week for Zapier, or name who besides you is actually going to execute it. Just the decision, nothing bigger.
+- On deck (after the Big Thing):
+  1. **Georgia/Texas mortgage licensing research** — locked in for Friday 9/4, still hasn't happened, now overdue into a second week. Needs a real slot this week.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: markets are just getting going again after the Labor Day break — good moment for a post on why the first week back after a holiday often moves rates more than people expect, so it's not the week to tune out.
+- Market/loan update (9/8/26): 10-year Treasury yield ~4.79% (CNBC), up about 3 basis points on the day, testing the 4.8% level again — range so far 4.764%–4.792%. Mortgage News Daily's site wasn't directly reachable this morning, so I don't have a clean, confirmed number straight from them today. Their most recent confirmed close (Friday 9/4): 30-year fixed conventional 6.89%, 30-year FHA 6.44%, 15-year fixed 6.48%, 30-year jumbo 7.05%. Other trackers have today's 30-year fixed somewhere in the 6.67%-6.84% range depending on methodology — worth a direct MND check before quoting a client today.
+- Carried over from last night: the Zapier/GHL decision (today's Big Thing, reframed per last night's plan), Georgia/Texas licensing research, Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all straight off Monday night's Big Rocks list.
+
 ### 2026-09-07
 
 **Gloria — Evening**
