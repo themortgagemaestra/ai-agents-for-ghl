@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-09
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit. No other project work happened here today. Today's Big Thing — the Georgia/Texas licensing research — isn't the kind of task that shows up in git either way, so I genuinely can't tell from this seat whether you sat down and did it. If you did, that's a real win and I just can't see it from here — say the word and I'll log it properly tomorrow.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Georgia/Texas mortgage licensing research.** Locked in for Friday 9/4, now more than a week overdue no matter how you slice it. This is the second cycle running I've named it — it's bounded, fully in your control, and doesn't depend on anyone else. If it didn't happen today, it needs a real protected slot tomorrow, first thing.
+- **Zapier → GHL bridge — still checking in, status unknown from here.** If you made the calendar-block-or-name-a-person call this week, tell me and I'll track what's next. If not, it's still sitting there.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg — still on the table.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Georgia/Texas mortgage licensing research.** Same pick as this morning, and I'm not backing off it — it's the one thing on this list that's fully yours to just sit down and finish, and it's been overdue for over a week now. Clear it tomorrow and get a real, concrete win on the board.
+
+Quiet day on this project from where I sit, Jess — but licensing research doesn't leave a trace in git either way, so "quiet in git" isn't proof nothing happened. Get some rest. Have a good night, see you tomorrow.
+
 **Gloria — Morning**
 - One Big Thing: **Georgia/Texas mortgage licensing research.** This is last night's pick, and it's still the right one — it's fully in your control, it's overdue, and it's small enough to actually finish in one sitting. Locked in for Friday 9/4, now over a week overdue. Clear it today and get a real win on the board.
 - On deck (after the Big Thing):
