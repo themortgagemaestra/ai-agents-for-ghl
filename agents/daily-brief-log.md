@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-09
+
+**Gloria — Morning**
+- One Big Thing: **Georgia/Texas mortgage licensing research.** This is last night's pick, and it's still the right one — it's fully in your control, it's overdue, and it's small enough to actually finish in one sitting. Locked in for Friday 9/4, now over a week overdue. Clear it today and get a real win on the board.
+- On deck (after the Big Thing):
+  1. **Zapier/GHL bridge — still checking in, not repeating as the headline.** If you made the calendar-block-or-name-a-person decision on 9/8, tell me and I'll track what's next. If not, it's still sitting there — just not today's fight.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: oil prices are up on renewed Iran tension and it's pushing bond yields (and rates) higher this week — good moment for a quick post on how global events show up in your mortgage rate even when nothing local changed.
+- Market/loan update (9/9/26): 10-year Treasury yield ~4.79-4.80% as of Tuesday 9/8's close (CNBC), still testing the 4.8% level, up slightly as rising oil prices (Iran tensions) pressure the bond market. Mortgage News Daily's site wasn't directly reachable again this morning, so I don't have a clean, confirmed number straight from them today. Their most recent confirmed close (Friday 9/4): 30-year fixed conventional 6.89%, 30-year FHA 6.44%, 15-year fixed 6.48%, 30-year jumbo 7.05%. Other trackers today have 30-year fixed conventional around 6.73%-6.77%, FHA around 6.15%, and jumbo around 6.86% — worth a direct MND check before quoting a client today.
+- Carried over from last night: Georgia/Texas licensing research (today's Big Thing), the Zapier/GHL bridge (status unknown from here, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all straight off Tuesday night's Big Rocks list.
+
 ### 2026-09-08
 
 **Gloria — Evening**
