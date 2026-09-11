@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-11
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit — same as every day this week. Today's Big Thing, the Georgia/Texas licensing research, isn't the kind of task that ever shows up in git, so I genuinely can't tell from this seat whether you sat down and closed it out. If you did, that's a real win and I just can't see it — tell me and I'll log it properly tomorrow rather than guessing either way.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Georgia/Texas mortgage licensing research.** Due Friday 9/4, a full week overdue as of this morning and now heading into its second week. Fifth day I'm naming it. It's still small, still bounded, still fully yours — nothing else is in the way of just sitting down and finishing it.
+- **Zapier → GHL bridge — still checking in, status unknown from here.** If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg (marketing strategist) — still on the table.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Georgia/Texas mortgage licensing research.** Same pick again, and I'm not backing off it — it's the one thing on this list that's fully in your control, and it's now over a week overdue. Close it out tomorrow and get a real, concrete win on the board.
+
+Quiet day on this project from where I sit, Jess — but that's git's view, not the whole picture, and licensing research wouldn't show up here either way. Get some rest. Have a good night, see you tomorrow.
+
 **Gloria — Morning**
 - One Big Thing: **Georgia/Texas mortgage licensing research.** Fourth morning running as the pick, Jess. It was due Friday 9/4 — that's a full week overdue today, going into its second week. It's still small, still bounded, still fully yours to just sit down and finish. Today's the day to actually close it out.
 - On deck (after the Big Thing):
