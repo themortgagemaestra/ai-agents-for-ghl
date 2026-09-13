@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-13
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit — same pattern as most of the last two weeks. Georgia/Texas licensing research isn't a task that shows up in git either way, so I genuinely can't tell from this seat whether you got a real block on the calendar for it today like this morning asked. If you did, that's a real win and I just can't see it — tell me and I'll log it properly tomorrow rather than guessing.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Georgia/Texas mortgage licensing research.** Due Friday 9/4 — that's nine days overdue today, ten tomorrow. This morning I said something different than the usual nudge: if it didn't get a real, protected slot today, we talk tomorrow about what's actually in the way instead of me just saying "overdue" again. From where I sit, nothing changed today — so that conversation is due, not another restatement of the task.
+- **Zapier/GHL bridge — still checking in, status unknown from here.** If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg (marketing strategist) — still on the table if there's time.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Let's actually talk about what's in the way of the licensing research — not another nudge.** I said last night I'd stop just repeating "overdue," and I meant it. Nine days of naming it hasn't moved it, so tomorrow's job is figuring out the real obstacle (time, dread, unclear steps, something else) and solving that, not re-listing the task.
+
+Quiet day on this project from where I sit, Jess — but that's git's view, not the whole picture, and licensing research wouldn't show up here either way. Get some rest. Have a good night, see you tomorrow.
+
 **Gloria — Morning**
 - One Big Thing: **Georgia/Texas mortgage licensing research — with a real block on the calendar, today.** Due Friday 9/4, that's nine days overdue now. I've named this every single day for over a week, and last night I said the daily nudge alone clearly wasn't working — so here's the change: if it doesn't get a real, protected slot today, let's talk tomorrow about what's actually in the way, instead of me just saying "overdue" again. This is still small, still bounded, still 100% yours.
 - On deck (after the Big Thing):
