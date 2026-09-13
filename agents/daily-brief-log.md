@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-13
+
+**Gloria — Morning**
+- One Big Thing: **Georgia/Texas mortgage licensing research — with a real block on the calendar, today.** Due Friday 9/4, that's nine days overdue now. I've named this every single day for over a week, and last night I said the daily nudge alone clearly wasn't working — so here's the change: if it doesn't get a real, protected slot today, let's talk tomorrow about what's actually in the way, instead of me just saying "overdue" again. This is still small, still bounded, still 100% yours.
+- On deck (after the Big Thing):
+  1. **Zapier/GHL bridge — still checking in, status unknown from here.** If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: it's Sunday and a quieter market day — good moment for a plain-language weekly recap post: rates climbed basically every day this week and hit their highest since May 2025, so what should someone waiting on the sidelines actually do with that.
+- Market/loan update (9/13/26): 10-year Treasury yield holding around 4.96%-4.97% (CNBC) — the highest since October 2023 — unchanged since Friday's close because markets are shut for the weekend; that move was driven by Friday's hot August CPI report (core inflation at 3.4% year-over-year). Mortgage News Daily doesn't publish weekend updates either, so their last confirmed number stands: 30-year fixed conventional 7.12% as of Friday 9/11, the fourth straight up day and the highest since May 2025. Still no clean, MND-confirmed FHA number since their site's been hard to pull directly this week — check MND directly Monday before quoting a client.
+- Carried over from last night: Georgia/Texas licensing research (today's Big Thing again, and now with a real ask attached), the Zapier/GHL bridge (status unknown from here, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all straight off Saturday night's Big Rocks list.
+
 ### 2026-09-12
 
 **Gloria — Evening**
