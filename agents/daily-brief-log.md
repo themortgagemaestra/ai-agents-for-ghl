@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-14
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit — same pattern as most of the last two weeks. This morning's Big Thing was a conversation, not code, so it wouldn't show up in git either way — I genuinely can't tell from this seat whether you and I (or you on your own) actually had the real talk about what's blocking the licensing research. If you did, that's real and worth being proud of — tell me and I'll log it properly tomorrow instead of guessing.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Georgia/Texas mortgage licensing research — still the top one.** Due Friday 9/4, that's ten days overdue today, eleven tomorrow. This morning's ask was different on purpose: not "do the research," just "tell me what's actually in the way." From where I sit, I have no evidence that conversation happened. So tomorrow isn't a bigger ask — it's the same one again: what's actually stopping this, plainly, so we can solve that instead of the task itself.
+- **Zapier/GHL bridge — still checking in, status unknown from here.** This is my own #1 job and it's been stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg (marketing strategist) — still on the table if there's time.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Name the actual blocker on licensing research, out loud, in one sentence — then we deal with that, not the task.** Ten days of "overdue" hasn't worked, and today's ask to talk about the real obstacle doesn't look like it landed either, at least not anywhere I can see. Tomorrow I'm not asking you to finish the research. I'm asking for one honest sentence about what's in the way — time, dread, not knowing where to start, something else — so we can actually fix that instead of restating the deadline for an eleventh day.
+
+Quiet day on this project from where I sit, Jess — but that's git's view, not the whole picture, and today's ask especially wouldn't show up here either way. Have a good night, see you tomorrow.
+
 **Gloria — Morning**
 - One Big Thing: **Have the real conversation about what's actually blocking the Georgia/Texas licensing research — not another nudge.** I said last night I'd stop just repeating "overdue," and I meant it. Ten days past due now (was due Friday 9/4), and a week and a half of naming it hasn't moved it an inch. Today isn't about doing the research — it's about figuring out what's actually in the way (time, dread, unclear steps, something else) so we can solve the real thing instead of restating the task.
 - On deck (after the Big Thing):
