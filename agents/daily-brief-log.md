@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-15
+
+**Gloria — Morning**
+- One Big Thing: **Say the blocker on Georgia/Texas licensing research out loud — one honest sentence about what's actually in the way.** This is the same pick as last night, on purpose. It's now eleven days past its Friday 9/4 due date, and I've named it every single morning for over a week straight. Repeating "overdue" clearly isn't the lever — so today isn't "finish the research," it's just naming the real obstacle (time, dread, not knowing where to start, something else) so we can attack that instead of the deadline.
+- On deck (after the Big Thing):
+  1. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: the Fed meets today and tomorrow, and for once the market isn't betting on a rate cut — traders are pricing a 92% chance of a hike as the 10-year hit its highest level since 2007. A plain post on "why a Fed meeting doesn't always mean lower rates" would cut through a lot of client confusion this week.
+- Market/loan update (9/15/26): 10-year Treasury yield 5.04% (CNBC), the highest since July 2007, pushed up by an Iran-driven oil price surge and traders now pricing a 92% chance the Fed hikes rates 25bp tomorrow — a real reversal from the cut expectations most people still assume. Mortgage News Daily's last confirmed number: 30-year fixed conventional 7.17% as of Monday 9/14, a new long-term high — you'd have to go back to January 2025 to see it higher. Today's exact MND print isn't out yet (their index updates around 4pm ET), but with the 10-year at a 19-year high this morning, don't be surprised if it climbs again. Still no clean MND-confirmed FHA number — check MND directly before quoting a client.
+- Carried over from last night: the licensing-research blocker conversation (today's Big Thing, straight off last night's pick), the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all off last night's Big Rocks list.
+
 ### 2026-09-14
 
 **Gloria — Evening**
