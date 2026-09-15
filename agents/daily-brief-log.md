@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-15
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit — same as most of the last two weeks. This morning's Big Thing was a one-sentence conversation about the licensing-research blocker, not code, so it genuinely wouldn't show up in git either way. I have no evidence either way that it happened. If it did, tell me and I'll log it properly tomorrow instead of guessing — that's a real thing to be proud of if so.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Georgia/Texas mortgage licensing research.** Due Friday 9/4, now twelve days overdue. I've asked for the "name the blocker" conversation for over a week straight and can't confirm it's landed. Naming the blocker clearly isn't moving this either — so tomorrow I'm changing the ask: instead of another round of "what's in the way," just open the research and give it 15-20 minutes, however imperfect. Small and started beats named-but-still-untouched.
+- **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg (marketing strategist) — still on the table if there's time.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Open the Georgia/Texas licensing research and put in 15-20 minutes, imperfectly.** Twelve days overdue, and asking you to talk about the blocker hasn't produced anything I can point to. Time to try a different lever: not a conversation, not a plan — just start it, small, tomorrow.
+
+Quiet day on this project from where I sit, Jess — but that's git's view, not the whole picture. Have a good night, see you tomorrow.
+
 **Gloria — Morning**
 - One Big Thing: **Say the blocker on Georgia/Texas licensing research out loud — one honest sentence about what's actually in the way.** This is the same pick as last night, on purpose. It's now eleven days past its Friday 9/4 due date, and I've named it every single morning for over a week straight. Repeating "overdue" clearly isn't the lever — so today isn't "finish the research," it's just naming the real obstacle (time, dread, not knowing where to start, something else) so we can attack that instead of the deadline.
 - On deck (after the Big Thing):
