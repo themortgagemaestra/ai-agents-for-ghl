@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-16
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: the only thing that landed in this repo today was this morning's automated check-in commit — same pattern as most of the last two weeks. This morning's Big Thing was "open the licensing research and put in 15-20 minutes" — that's exactly the kind of task that wouldn't show up in git either way, so I genuinely can't tell from this seat whether you did it. If you did, that's real and worth being proud of — tell me and I'll log it properly tomorrow instead of guessing.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Georgia/Texas mortgage licensing research.** Due Friday 9/4, now thirteen days overdue as of tomorrow. I've named this every day for two full weeks — first asking for the blocker conversation, then dropping the ask down to just 15-20 minutes, imperfectly. I have no way to confirm either happened. Tomorrow I'm not adding a new angle — just repeating the smallest version of the ask, because it's the one I haven't seen fail yet, only go untested from where I sit.
+- **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Testing Meg (marketing strategist) — still on the table if there's time.
+- Two smaller open threads, still open: Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Open the Georgia/Texas licensing research and put in 15-20 minutes, imperfectly.** Same pick as last night — thirteen days overdue tomorrow, and I have no evidence either way that today's version of the ask landed. Not changing the lever again until I know whether this one got a real try.
+
+Quiet day on this project from where I sit, Jess — that's git's view, not the whole picture. Have a good night, see you tomorrow.
+
 **Gloria — Morning**
 - One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** This is last night's pick, carried straight over on purpose. It's now 12 days past its Friday 9/4 due date, and I've named the blocker every morning for two weeks with nothing to show for it — so today isn't another "what's in the way" conversation. Just open it and put in 15-20 minutes, however rough. Started beats perfect.
 - On deck (after the Big Thing):
