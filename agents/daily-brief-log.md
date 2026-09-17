@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-17
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick as last night, on purpose. It's 13 days past its Friday 9/4 due date now, and I have zero evidence either way whether yesterday's version of this ask landed — so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: the Fed just hiked for the first time in three years and mortgage rates still went up the same day — a plain "why a Fed hike doesn't directly set your mortgage rate, but it moved anyway" post would clear up real confusion clients probably have right now.
+- Market/loan update (9/17/26): 10-year Treasury yield around 5.02% (CNBC), holding above 5% — highest since July 2007 — after the Fed hiked its overnight rate for the first time in three years (to 3.75%-4%) and Chair Warsh flagged ongoing inflation risk in his press conference. Mortgage News Daily's last confirmed number: 30-year fixed conventional 7.24% as of Tuesday 9/16, up 0.02% on the day and the highest since January 13, 2025 — MND's own read is that the Fed hike itself didn't move mortgage rates, Warsh's comments about more hikes to come did. Today's exact MND print isn't out yet (updates around 4pm ET). Still no clean MND-confirmed FHA number — check MND directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all off last night's Big Rocks list.
+
 ### 2026-09-16
 
 **Gloria — Evening**
