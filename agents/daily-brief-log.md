@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-22
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 18 days overdue today. Still zero evidence either way whether any of the last three-plus weeks' versions of this ask landed, so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: the 10-year eased slightly this morning while everyone waits on the next jobs and Fed data — a plain "rates are holding near their highs while the market waits for its next clue" post keeps clients from reading too much into a quiet day.
+- Market/loan update (9/22/26): 10-year Treasury yield around 4.943% (CNBC), down about 2 basis points early Tuesday as investors await fresh jobs data and Fed comments — a quiet holding pattern, not a real move either direction. Straight talk: Mortgage News Daily's own site wasn't reachable from here this morning, so I can't hand you a clean MND-confirmed print for today — the last one I could confirm directly was Monday 9/21's 30-year fixed conventional at 7.17%. Other trackers checked for today: Fortune has the 30-year conforming average at 7.068% (down from 7.09% yesterday), Zillow at 7.03%, and 30-year FHA around 6.511% — all pointing the same direction (a slight easing), but none of them is the MND number itself. Treat these as directional, not exact — pull MND directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all off last night's Big Rocks list.
+
 ### 2026-09-21
 
 **Gloria — Evening**
