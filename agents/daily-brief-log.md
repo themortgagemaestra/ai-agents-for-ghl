@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-23
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 19 days overdue today. Still zero evidence either way whether any of the last three-plus weeks' versions of this ask landed, so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates barely moved again overnight — a plain "still holding near the highs, nothing new to react to" post beats silence and keeps clients from reading a quiet day as a signal.
+- Market/loan update (9/23/26): 10-year Treasury yield around 4.994% (CNBC), up about 2 basis points this morning as oil prices swing and traders wait on more inflation and Fed signals — still parked near the recent highs, not a real move. Mortgage News Daily: top-tier 30-year fixed conventional at 7.17%, down slightly from 7.19% yesterday. Straight talk: I couldn't pull a clean MND FHA print for today directly (their site wasn't reachable from here again this morning) — the last one I could confirm was Monday 9/21's 6.526%. Other trackers today have the average 30-year in the low-to-mid 7% range (Mortgage Reports 7.154%, NerdWallet/Zillow 7.04%), all pointing the same direction as MND — a slight easing, not a breakout. Treat those as directional, not exact — pull MND directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all off last night's Big Rocks list.
+
 ### 2026-09-22
 
 **Gloria — Evening**
