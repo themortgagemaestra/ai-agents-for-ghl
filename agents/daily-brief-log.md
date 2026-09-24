@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-24
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 20 days overdue today. Still zero evidence either way whether any of the last three-plus weeks' versions of this ask landed, so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  2. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  3. Testing Meg (marketing strategist) — still on the table if there's time.
+  - Smaller open threads: Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: the 10-year just hit its highest level since 2007 and mortgage rates followed it up today — a plain "rates moved up today, here's what that actually means if you're mid-search" post beats a client finding out from a scary headline first.
+- Market/loan update (9/24/26): 10-year Treasury yield around 5.10% (CNBC) this morning, after touching its highest level since July 2007 — a fresh 19-year high — as the bond market selloff continues on inflation and Fed-policy worries; the 30-year Treasury also hit its highest since 2004 today. Straight talk on Mortgage News Daily: I couldn't reach their site directly again this morning, so no clean MND-confirmed print for today. Other trackers all point the same direction (up, following the Treasury rout): NerdWallet/Zillow has the 30-year fixed around 7.29% (their own headline today was blunt — "Ouch"), Mortgage Reports at 7.115%, Fortune's conforming average at 7.111%. FHA: Fortune has 30-year FHA around 6.51%, but again, not an MND-confirmed number. Bottom line: rates look like they ticked up today alongside the bond selloff — treat these as directional, not exact, and pull MND directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea — all off last night's Big Rocks list.
+
 ### 2026-09-23
 
 **Gloria — Evening**
