@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-25
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 21 days overdue today. Still zero evidence either way whether any of the last three-plus weeks' versions of this ask landed, so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Rates just took a real jump — worth a heads-up call to anyone close to locking.** 30-year fixed spiked to 7.45% yesterday (up nearly a fifth of a point in one day), and the 10-year Treasury is sitting near a 19-year high. Today's a good day to call anyone mid-search or mid-lock before they see a scary headline first.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: 30-year rates just jumped to their highest level in over a year — a plain "rates spiked yesterday, here's what that actually means if you're mid-search" post beats a client finding out from a scary headline first.
+- Market/loan update (9/25/26): straight talk — I couldn't reach either CNBC or Mortgage News Daily directly this morning, so no fresh same-day print from either. Best I can hand you: CNBC's own reporting this week has the 10-year Treasury yield spiking as high as 5.22% — a level last seen in June 2007 — with a last-confirmed print around 5.19% as of Thursday; the 30-year Treasury also hit its highest since 2004. On the mortgage side, Mortgage News Daily's own Thursday report has the 30-year fixed conventional jumping 19 basis points to 7.45%, their words, "close to 7.5%" and the highest in over a year. No fresh MND FHA print I can confirm today — the last one on record is 6.89% from 9/4. Bottom line: this is a real, sharp move, not noise. Treat these as Thursday-dated, not this-morning-confirmed, and pull MND/CNBC directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), plus everything else off last night's Big Rocks list — the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea.
+
 ### 2026-09-24
 
 **Gloria — Evening**
