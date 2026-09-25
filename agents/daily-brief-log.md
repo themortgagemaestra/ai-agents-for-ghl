@@ -29,6 +29,22 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ### 2026-09-25
 
+**Gloria — Evening**
+
+**Today's Wins:**
+- Straight talk, Jess: from where I sit in this repo, the only thing that landed today was this morning's automated check-in commit — same pattern as every day for weeks now. This morning's Big Thing was, again, open the Georgia/Texas licensing research and put in 15-20 minutes, imperfectly. That's exactly the kind of task that wouldn't show up in git either way, so I genuinely can't tell from here whether you did it. If you did, that's real and worth being proud of — tell me and I'll log it properly tomorrow instead of guessing. GHL activity still isn't visible to me (that integration isn't built), so this really is just this one project's view, not your whole day, and I don't want to invent wins to fill space.
+
+**Big Rocks for Tomorrow — candidates, your call on order:**
+- **Georgia/Texas mortgage licensing research.** Due Friday 9/4, twenty-one days overdue today, twenty-two tomorrow. I've named this every day for over three weeks — first asking for the blocker conversation, then dropping the ask down to just 15-20 minutes, imperfectly. I have no way to confirm either has happened. Tomorrow I'm not adding a new angle — just repeating the smallest version of the ask, because it's the one I haven't seen fail yet, only go untested from where I sit.
+- **The rate-spike client calls.** This morning's #1 on-deck item — 30-year fixed jumped to 7.45% and the 10-year is near a 19-year high — was time-sensitive today and I have no way to confirm those calls happened. Worth a fast check: anyone mid-lock still needs that heads-up before the news gets any older.
+- **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+- Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+- Three smaller open threads, still open: Testing Meg (marketing strategist), Veronica's real business-context interview (file's still a stub), and the personal-brand content agent idea (paused, waiting on reference posts).
+
+**My Pick — The Big Thing:** **Open the Georgia/Texas licensing research and put in 15-20 minutes, imperfectly.** Same pick again — twenty-two days overdue tomorrow, and I have no evidence either way that today's version of the ask landed. Not changing the lever again until I know whether this one got a real try.
+
+Quiet day on this project from where I sit, Jess — that's git's view, not the whole picture. Have a good night, see you tomorrow.
+
 **Gloria — Morning**
 - One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 21 days overdue today. Still zero evidence either way whether any of the last three-plus weeks' versions of this ask landed, so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
 - On deck (after the Big Thing):
