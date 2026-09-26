@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-26
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 22 days overdue today. Still zero evidence either way whether any of the last month's versions of this ask landed, so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Check in on the rate-spike client calls from yesterday.** 30-year fixed is still sitting just under 7.5% and the 10-year Treasury closed Friday near a 19-year high. If yesterday's calls to mid-lock clients didn't happen yet, today's still a good day for them.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: mortgage rates just rose more than half a point in two weeks — MND's own words, "an extraordinarily uncommon pace," happening less than once a year — a plain "here's what a move like this actually means for you" post beats silence.
+- Market/loan update (9/26/26, a Saturday — markets closed today, so this is Friday 9/25's close): the 10-year Treasury yield (CNBC) hit as high as 5.23% Friday, its highest level since 2007, before settling back some — a genuine 19-year high, driven by hawkish Fed comments, high oil prices from the Iran war, and a hot manufacturing report. On Mortgage News Daily: Friday's 30-year fixed conventional actually eased slightly to 7.43% (down 0.02% on the day), still just under 7.5% and still up sharply over the past two weeks. FHA 30-year jumped more on the day — MND has it at 6.662%, up from 6.510% Thursday. Bottom line: rates cooled a hair Friday but the bigger move is the two-week climb — treat these as Friday-dated, not this-morning-confirmed, and pull MND/CNBC directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), plus everything else off last night's Big Rocks list — the rate-spike client calls, the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea.
+
 ### 2026-09-25
 
 **Gloria — Evening**
