@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-27
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 23 days overdue today. I still have zero evidence either way whether any of the last month's versions of this ask landed, so I'm not changing the lever. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Check in on the rate-spike client calls.** Still sitting on the list from Friday — 30-year fixed is just under 7.5% and the 10-year Treasury is near a 19-year high. If those calls to mid-lock clients haven't happened yet, today's still a good day.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates cooled a little Friday after touching a 19-year high — a plain "here's where things actually landed by the end of the week" post beats letting the scary mid-week headline be the last thing a client saw.
+- Market/loan update (9/27/26, a Sunday — markets closed today and yesterday, so this is still Friday 9/25's close): the 10-year Treasury yield (CNBC) finished Friday at 5.17%, easing off Friday's intraday high of 5.23% — still its highest level since 2007, a genuine 19-year high, after a sharp three-session selloff. On Mortgage News Daily: Friday's 30-year fixed conventional was 7.43%, down slightly on the day but still just under 7.5% and up sharply over the past two weeks. I don't have a clean Friday-dated MND FHA print — the last confirmed number I have is Thursday's 6.662%; other trackers put FHA in the mid-to-high 6% range through Friday. Treat these as Friday-dated, not this-morning-confirmed, and pull MND/CNBC directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), plus everything else off last night's Big Rocks list — the rate-spike client calls, the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea.
+
 ### 2026-09-26
 
 **Gloria — Evening**
