@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-28
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 24 days overdue today. Still zero evidence either way whether any of the last month's versions of this ask landed, so I'm not changing the lever. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Check in on the rate-spike client calls.** Still carried from last week — the 10-year Treasury is edging higher again today and 30-year fixed is still solidly above 7%. If anyone mid-lock or mid-search still hasn't heard from you, today's a good day.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates have now climbed for three straight days — a plain "here's exactly where things stand this morning" post beats a client hearing about it secondhand.
+- Market/loan update (9/28/26, Monday): the 10-year Treasury yield (CNBC) is at 5.20-5.21% today, edging higher again as pressure on global government bonds resumes and oil prices stay elevated — still around its highest level since 2007. On the mortgage side, straight talk: I don't have a fresh Monday-dated print directly off Mortgage News Daily's own index this morning. My last confirmed MND number is Friday's 30-year fixed conventional at 7.43%, and MND's own FHA print from last Thursday was 6.662%. Broader trackers today (Forbes, Fortune, NerdWallet) all agree rates are still firmly above 7% and inching up for a third straight day, so treat today as flat-to-slightly-higher off Friday's MND number until you pull MND directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), plus everything else off last night's Big Rocks list — the rate-spike client calls, the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea.
+
 ### 2026-09-27
 
 **Gloria — Evening**
