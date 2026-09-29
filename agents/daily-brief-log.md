@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-29
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so this is 25 days overdue today. Still zero evidence either way whether any of the last month's versions of this ask landed, so I'm not changing the lever again. Just open it and put in 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Check in on the rate-spike client calls.** Still carried from last week — 30-year fixed conventional officially crossed 7.5% yesterday for the first time since April 2024, and the 10-year Treasury is still near its highest since 2007. If anyone mid-lock or mid-search still hasn't heard from you, today's the day.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: 30-year fixed just hit 7.5% for the first time in over a year — a plain "here's what this milestone actually means for your payment" post beats a client finding out from a scary headline.
+- Market/loan update (9/29/26, Tuesday): the 10-year Treasury yield (CNBC) is sitting around 5.24-5.25% today, easing just slightly off yesterday's fresh highs but still holding near its highest level since 2007. On the mortgage side, straight talk: my last confirmed number directly off Mortgage News Daily is yesterday's (Monday 9/28) — the 30-year fixed conventional officially hit 7.50%, the first time since April 30, 2024. I don't have a fresh Tuesday print off MND's own index yet this morning (they typically post mid-afternoon). Other trackers are genuinely split today — some (Zillow-based, via NerdWallet/Yahoo) show a pullback to around 7.24-7.30%, while others (Forbes/Fortune) show rates still climbing toward 7.37%. FHA: my last confirmed MND number is still last Thursday's 6.662% — nothing fresher since. Bottom line: treat today as volatile and unsettled, not a clean move either direction, and pull MND directly before quoting a client.
+- Carried over from last night: the licensing-research push (today's Big Thing again), plus everything else off last night's Big Rocks list — the rate-spike client calls, the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea.
+
 ### 2026-09-28
 
 **Gloria — Evening**
