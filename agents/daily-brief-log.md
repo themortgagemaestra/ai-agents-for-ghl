@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-09-30
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** This is my pick from last night, and it's the same one I've made for over three weeks straight — Friday 9/4 due date, so today it's 26 days overdue. Still no evidence either way whether any of the last month's versions of this ask actually landed. Not switching the lever again — just open it and put in the 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Check in on the rate-spike client calls.** Carried from last night's list, and it's more urgent, not less — 30-year fixed hit 7.58% on Monday per Mortgage News Daily's own index and other trackers have it pushing past 7.6% today, a fresh high for this stretch. If anyone mid-lock or mid-search still hasn't heard from you, today's the day.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads, still carried: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates just pushed to a fresh high for this stretch — a plain "here's what 7.6% actually costs you a month vs. last year" post beats a client doomscrolling a scary headline.
+- Market/loan update (9/30/26, Wednesday): the 10-year Treasury yield (CNBC) is sitting around 5.21-5.22% today, easing back slightly after August PCE inflation data came in cooler than feared — still holding near its highest level since 2007. On the mortgage side, straight talk: my last confirmed number directly off Mortgage News Daily's own index is Monday's (9/29) 30-year fixed conventional at 7.58%, up from Friday's 7.43-7.50% range. I don't have a fresh Wednesday print off MND's own site yet this morning. Other trackers (U.S. News, Forbes) are showing today's 30-year fixed pushing past 7.6%, so treat this morning as still climbing off Monday's confirmed MND number — pull MND directly before quoting a client. FHA: my last confirmed MND number is still last Thursday's 6.662%, nothing fresher confirmed since.
+- Carried over from last night: the licensing-research push (today's Big Thing again), plus everything else off last night's Big Rocks list — the rate-spike client calls, the Zapier/GHL bridge (status unknown, not off the list), Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea.
+
 ### 2026-09-29
 
 **Gloria — Evening**
