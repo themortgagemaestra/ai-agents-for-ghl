@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-10-01
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so today it's 27 days overdue. Still no evening entry logged last night to tell me whether yesterday's version of this ask landed (see note below), so I'm not switching the lever on no new information. Just open it, 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Check in on the rate-spike client calls — this is the most urgent it's been yet.** The 10-year Treasury (CNBC) surged again overnight to around 5.30%, briefly touching its highest level since April 2002. MND's last confirmed 30-year fixed conventional print was Wednesday's (9/30) 7.60%, already up from Tuesday's 7.58%, and today's number (posts mid-afternoon) is very likely to be higher still. If anyone mid-lock or mid-search hasn't heard from you, today's the day — this isn't a slow drift anymore, it's a spike.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads, still carried: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: the 10-year just touched its highest level since 2002 — a plain "rates are historic right now, here's what it actually costs you per month" post lands better than another scary-headline doomscroll.
+- Market/loan update (10/1/26, Thursday): the 10-year Treasury yield (CNBC) is running around 5.30% today, with an intraday high near 5.34% — the highest level since April 2002, as traders look past this week's inflation data and brace for the jobs report. On the mortgage side, straight talk: my last confirmed number directly off Mortgage News Daily is Wednesday's (9/30) 30-year fixed conventional at 7.60%, up from Tuesday's 7.58%. I don't have a fresh Thursday print off MND's own site yet this morning — they typically post mid-afternoon. FHA: my last confirmed MND read is also Wednesday's, around 7.19-7.25% (sources vary slightly on the exact tick) — a sharp jump from the 6.662% I had confirmed the prior Thursday, in line with how fast the whole market's moved this week. Pull MND directly before quoting a client — this is moving fast.
+- Carried over from last night: straight talk — there's no evening entry logged for 9/30 in this file, so either last night's wrap-up didn't run or didn't post. I can't tell you what happened yesterday beyond this morning's own on-deck list, which just repeats what was already open as of Wednesday morning: the licensing-research push (today's Big Thing again), the rate-spike client calls (now more urgent, see above), the Zapier/GHL bridge, Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea. Flagging the missing evening entry so it doesn't get lost.
+
 ### 2026-09-30
 
 **Gloria — Morning**
