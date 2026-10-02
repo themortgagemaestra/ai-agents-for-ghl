@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-10-02
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so today it's 28 days overdue. Still no evening entry logged last night (10/1) to tell me whether yesterday's version landed, so I'm not switching the lever on no new information. Just open it, 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Reach out to mid-lock or shopping clients with actual good news for once.** Rates just had their best day in weeks — see market update below. After a brutal few weeks of spiking, this is a real window to call people with something other than bad news.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads, still carried: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates just had their best day in weeks after a weak jobs report — a plain "good news for once: here's what dropped and why" post is a nice break from the doomscroll headlines.
+- Market/loan update (10/2/26, Friday): the 10-year Treasury yield (CNBC) fell about 6 basis points to around 5.18% today, pulling back from this week's highest levels since 2002, after a much-weaker-than-expected September jobs report likely takes a Fed rate hike off the table for October. On the mortgage side, straight talk: my last confirmed number directly off Mortgage News Daily's own index is yesterday's (Thursday 10/1) 30-year fixed conventional at 7.54%, down from Wednesday's 7.60% — MND's own headline was "Solid Mid-Day Recovery For Rates." I don't have a fresh Friday print off MND's own site yet this morning (they typically post mid-afternoon), but today's jobs-report reaction points the same direction: lower. FHA: I don't have a fresher confirmed MND number than Wednesday's (9/30) 7.19-7.25% range — pull MND directly before quoting a client, especially today with rates actually moving in clients' favor.
+- Carried over from last night: straight talk — there's still no evening entry logged for 10/1 in this file, same gap as yesterday morning flagged. I can't tell you what happened yesterday beyond this morning's own on-deck list, which carries forward what was already open: the licensing-research push (today's Big Thing again), the Zapier/GHL bridge, Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea. Flagging the missing evening entry again so it doesn't get lost.
+
 ### 2026-10-01
 
 **Gloria — Morning**
