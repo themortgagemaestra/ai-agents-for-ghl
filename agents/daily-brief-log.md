@@ -27,6 +27,21 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-10-03
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so today it's 29 days overdue. Still no evening entry logged for 10/2 to tell me whether yesterday's version landed, so I'm not switching the lever on no new information. It's Saturday, I know — even a rough 15-20 minutes today still counts.
+- On deck (after the Big Thing):
+  1. **Good-news client outreach — still worth doing.** Carried from yesterday. Rates eased again into Friday's close (see market update below) — a second good day in a row after weeks of bad news. Worth catching people up before Monday.
+  2. **Monday's pipeline meeting is two days out.** Worth a few minutes this weekend getting the Google Doc current in your head — GHL still isn't syncing it for you, so the doc is still the real source of truth going into that meeting.
+  3. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  4. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads, still carried: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates pulled back for a second straight day — a plain "two good days in a row, here's what it means for your payment" post keeps riding the good-news window instead of letting it pass quietly.
+- Market/loan update (10/3/26, Saturday — markets closed today, so this is Friday's close, last update until Monday): the 10-year Treasury yield (CNBC) closed Friday around 5.27-5.28%, little changed to slightly higher than Thursday — it dipped as low as roughly 5.18% Friday morning right after the weak jobs report, then pared that move back by the close. On the mortgage side, straight talk: my last confirmed number off Mortgage News Daily's own index is Friday's (10/2) 30-year fixed conventional at roughly 7.49%, down from Thursday's confirmed 7.54% — direction is still lower, even though the Treasury move reversed some of its own Friday dip. FHA: I don't have a fresh confirmed MND FHA print past midweek — pull MND directly before quoting a client, and know nothing updates again until Monday.
+- Carried over from last night: still no evening entry logged for 10/2 in this file — same gap as the last several days. I can't tell you what happened yesterday beyond what was already open as of Friday morning: the licensing-research push (today's Big Thing again), the good-news outreach, the Zapier/GHL bridge, Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea. Flagging the missing evening entry again so it doesn't get lost.
+
 ### 2026-10-02
 
 **Gloria — Morning**
