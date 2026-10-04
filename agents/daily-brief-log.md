@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-10-04
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so today it hits 30 days overdue, a full round number. Still no evening entry logged to tell me whether any recent version of this landed, so I'm not switching the lever on no new information. It's Sunday — even a rough 15-20 minutes still counts, and tomorrow's pipeline meeting is a clean reason to clear it before Monday.
+- On deck (after the Big Thing):
+  1. **Get the Google Doc current in your head before tomorrow's pipeline meeting.** Monday's meeting with your mom and Bobby is one day out — GHL still isn't syncing it for you, so the doc stays the real source of truth going in.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads, still carried: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates were mixed into Friday's close after weeks of swings — a plain "here's exactly where things stand heading into the week" post beats anyone guessing from scattered headlines.
+- Market/loan update (10/4/26, Sunday — markets closed, so this is Friday's (10/2) close, nothing new until Monday): the 10-year Treasury yield (CNBC) rose about 5 basis points Friday to roughly 5.28%, ticking higher despite a weaker-than-expected jobs report, and still sitting near its highest levels since 2007. On the mortgage side, straight talk: sources disagree more than usual on Friday's exact print — Mortgage News Daily's own index showed the 30-year fixed conventional around 7.57%, up about 0.04% from Thursday, though other reads that day ranged from the low-7.3s to mid-7.4s. FHA is similarly split in what I found — MND-sourced reads ranging roughly 7.12-7.20%. Pull MND directly before quoting a client — today's weekend search genuinely didn't land one clean number, and nothing updates again until Monday anyway.
+- Carried over from last night: still no evening entry logged in this file since 9/29 — same gap flagged for days running. I can't tell you what happened yesterday beyond what was already open: the licensing-research push (today's Big Thing again), the Zapier/GHL bridge, Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea. Flagging the missing evening entry again so it doesn't get lost.
+
 ### 2026-10-03
 
 **Gloria — Morning**
