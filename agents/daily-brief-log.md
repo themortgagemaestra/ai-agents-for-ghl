@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-10-05
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so today it's 31 days overdue. Still no evening entry logged to tell me whether any recent version of this landed, so I'm not switching the lever on no new information. It's Monday, and today's pipeline meeting is a real reason to clear this before your week gets going, not after.
+- On deck (after the Big Thing):
+  1. **Today's pipeline meeting with your mom and Bobby.** This is the day, not "coming up" anymore — get the Google Doc current in your head before you sit down. GHL still isn't syncing it for you, so the doc is still the real source of truth going in.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads, still carried: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: Treasury yields are climbing again to start the week, and one CNBC piece this morning makes the point plainly — this isn't a "fiscal apocalypse," just rates that don't move in a straight line. A calm "here's what's actually happening and why it's not a crisis" post beats feeding the panic.
+- Market/loan update (10/5/26, Monday): the 10-year Treasury yield (CNBC) is up again to start the week, around 5.28-5.30%, extending its run near the highest levels since 2002/2007 as traders look ahead to Fed minutes. On the mortgage side, straight talk: my last confirmed number off Mortgage News Daily's own index is Friday's (10/2) 30-year fixed conventional at 7.57% (up about 0.03-0.04% from Thursday), 15-year fixed at 7.19%, and 30-year jumbo at 7.66% — nothing fresher posted over the weekend, and today's MND print isn't up yet (they typically post mid-afternoon). FHA: I don't have a clean fresh MND number — Friday-era reads were roughly 7.12-7.20% depending on source. Pull MND directly before quoting a client.
+- Carried over from last night: still no evening entry logged in this file since 9/29 — same gap flagged for days running. I can't tell you what happened over the weekend beyond what was already open: the licensing-research push (today's Big Thing again), the Zapier/GHL bridge, Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea. Flagging the missing evening entry again so it doesn't get lost.
+
 ### 2026-10-04
 
 **Gloria — Morning**
