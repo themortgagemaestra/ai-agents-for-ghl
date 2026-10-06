@@ -27,6 +27,20 @@ Reformatted 9/4/26 per Jess's direct feedback: clearer sections, easier to scan 
 
 ## Entries
 
+### 2026-10-06
+
+**Gloria — Morning**
+- One Big Thing: **Open the Georgia/Texas licensing research and give it 15-20 minutes, imperfectly.** Same pick again — Friday 9/4 due date, so today it's 32 days overdue. Still no evening entry logged to tell me whether yesterday's pipeline meeting or anything else moved this, so I'm not switching the lever on no new information. Just open it, 15-20 minutes, however rough.
+- On deck (after the Big Thing):
+  1. **Follow up on anything that came out of yesterday's pipeline meeting with your mom and Bobby.** I can't see what happened in that meeting from here — if something new landed (a hot lead, a status change, an action item), tell me and I'll fold it into the Google Doc picture.
+  2. **Zapier/GHL bridge — still checking in, status unknown from here.** My own #1 job, stuck on the same open question for weeks. If you made the calendar-block-or-name-a-person call, tell me and I'll track what's next.
+  3. Meta ads prep with Carlos and Mafe — scripts and video ready to launch, still sitting.
+  - Smaller open threads, still carried: Testing Meg (marketing strategist), Veronica's real business-context interview (her file's still a stub), and your personal-brand content agent idea (paused, waiting on reference posts).
+- Gratitude reminder: sent (your own physical journal — not captured here).
+- Social spark: rates eased a touch off their highest-since-2007 run yesterday — a quick "small dip, still historically high, here's what it actually means for a client's payment" post keeps things honest without overpromising a turn that hasn't happened yet.
+- Market/loan update (10/6/26, Tuesday): the 10-year Treasury yield (CNBC) eased today to around 5.27%, down roughly 5 basis points from Monday's close, still holding near its highest levels since 2007 as traders digest this week's Fed signals. On the mortgage side, straight talk: my last confirmed number off Mortgage News Daily's own index is Monday's (10/5) 30-year fixed conventional at 7.61% (up 0.04 from Friday), 15-year fixed at 7.23% (+0.04), 30-year jumbo at 7.70% (+0.04), and 30-year FHA at 7.24% (+0.04) — MND's own Monday newsletter headline was "Mortgage Rates Inch Up to Another Recent High." Today's MND print isn't up yet (they typically post mid-afternoon) — pull MND directly before quoting a client.
+- Carried over from last night: still no evening entry logged in this file since 9/29 — same gap flagged for over a week running. I can't tell you what happened yesterday beyond what was already open: the licensing-research push (today's Big Thing again), whatever came out of Monday's pipeline meeting, the Zapier/GHL bridge, Meta ads prep, Testing Meg, Veronica's interview, and the personal-brand content agent idea. Flagging the missing evening entry again so it doesn't get lost.
+
 ### 2026-10-05
 
 **Gloria — Morning**
